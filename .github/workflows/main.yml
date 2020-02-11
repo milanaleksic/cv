@@ -1,4 +1,4 @@
-name: Advanced Usage
+name: Generate Docs from Markdown
 
 on: push
 
