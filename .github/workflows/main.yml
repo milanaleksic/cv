@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: mkdir output
       - uses: docker://pandoc/latex:2.9
-        with: # needs a README in your repo root!
+        with:
           args: "-s -f markdown -c mini-default.min.css cv.md --metadata pagetitle=CV -o cv.html"
       - uses: actions/upload-artifact@master
         with:
