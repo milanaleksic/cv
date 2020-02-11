@@ -175,7 +175,7 @@ Projects:
   + “I am away” Flowdock bot, deployed via Semaphore.ci + CloudFormation
 - [Clici for Jenkins](https://github.com/milanaleksic/clici) (Go)
   + Customizable Jenkins ncurses-like command line tool to follow Jenkins jobs
-- [HostChecker](github.com/milanaleksic/hostchecker) (Go)
+- [HostChecker](https://github.com/milanaleksic/hostchecker) (Go)
   + Uses JSON DSL to verify expectations which a certain cluster of machines must fulfil
 - [Baobab](https://milanaleksic.github.io/baobab/) (Java)
   + JSON-to-SWT mapping and annotation-driven MVC GUI framework
