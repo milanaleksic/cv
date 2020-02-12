@@ -104,6 +104,7 @@ Projects:
 ### Freelance Consultant
 
 Place: **Remote** (part-time job)
+
 Period: 2014
 
 Projects:
@@ -115,6 +116,7 @@ Projects:
 ### Software consultant @ Cronos (Belgium)  2011 - 2013
 
 Place: **Brussels, Belgium**
+
 Period: **2011-2013**
 
 Projects:
@@ -126,6 +128,7 @@ Projects:
 ### Software Engineer II @ Gtech G2 Sports Betting
 
 Place: **Belgrade, Serbia**
+
 Period: **2009 - 2011**
 
 Projects:
@@ -143,6 +146,7 @@ Projects:
 ### Software Developer @ Arius (Serbia)  2007 - 2009
 
 Place: **Belgrade, Serbia**
+
 Period: **2007-2009**
 
 Projects:
@@ -158,6 +162,7 @@ Projects:
 ### Intern software developer @ ESAProjekt
 
 Place: **Katowice, Poland**
+
 Period: **2006**
 
 Projects:
