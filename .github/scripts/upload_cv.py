@@ -33,7 +33,7 @@ class UploadCv:
     def upload_new_cv(self, cv, sha: str):
         http.client.HTTPConnection.debuglevel = 1
         conn = http.client.HTTPSConnection(GITHUB_API, context=self.ctx)
-        credentials_raw = bytes('milanaleksic:' + os.environ['GITHUB_TOKEN'], "utf-8")
+        credentials_raw = bytes('milanaleksic:' + os.environ['TOKEN_TO_UPLOAD'], "utf-8")
         credentials = base64.b64encode(credentials_raw).decode("utf-8")
         headers = {
             'Authorization': f'Basic {credentials}',
