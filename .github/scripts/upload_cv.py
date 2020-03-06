@@ -1,9 +1,11 @@
+#!/usr/bin/env python3
+
+import base64
+import http.client
 import json
 import os
 import ssl
 import urllib.request
-import base64
-import http.client
 
 WEBSITE_REPO = "milanaleksic/man-website"
 CV_LOCATION_IN_WEBSITE = "static/public/cv.html"
