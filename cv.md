@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 12/02/2020
+Last updated: 06/03/2020
 
 ## Personal
 
@@ -10,19 +10,23 @@ My website is [aleksic.dev](https://aleksic.dev), email is [milan@aleksic.dev](m
 I also have a [LinkedIn account](https://www.linkedin.com/in/milanaleksic) if you'd like to connect with me.
 My public GPG key is: [0xDF7A2E812429D391](https://pgp.mit.edu/pks/lookup?op=get&search=0xDF7A2E812429D391).
 
-## Education
+<details><summary><h2>Education</h2></summary>
 
 Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (Serbia), Faculty of Electrical Engineering (ETF)
 
 “NARIC – Vlaanderen” recognized diploma as M.Sc. [\[6\]](#appendix-6)
 
-## Spoken languages
+</details>
+
+<details><summary><h2>Spoken languages</h2></summary>
 
 - **Serbian** (mother tongue)
 - **English** (fluent)
 - **Dutch** (C1 Effectiveness 1, [\[5\]](#appendix-5))
 
-## Keywords
+</details>
+
+<details><summary><h2>Keywords</h2></summary>
 
 - Java
 - Go
@@ -31,9 +35,11 @@ Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (
 - PostgreSQL
 - JavaScript
 
-## Experience
+</details>
 
-### Senior Software Engineer @ SodaData (Belgium)
+<details><summary><h2>Experience</h2></summary>
+
+<details><summary><h3>Senior Software Engineer @ SodaData (Belgium)</h3></summary>
 
 Place: **Remote/Brussels, Belgium**
 
@@ -43,7 +49,9 @@ Projects:
 
 - SodaData Data Quality system (backend engineer, Java)
 
-### Expert Software Engineer @ TomTom (Belgium)
+</details>
+
+<details><summary><h3>Expert Software Engineer @ TomTom (Belgium)</h3></summary>
 
 Place: **Ghent, Belgium**
 
@@ -78,7 +86,9 @@ Projects:
 - *Lego*: automated map features ingestion
   + Kubernetes on Azure Cloud, Python, Java, QGIS Python plugins
 
-### {Senior, Lead} Software Engineer @ Basware (Belgium)
+</details>
+
+<details><summary><h3>{Senior, Lead} Software Engineer @ Basware (Belgium)</h3></summary>
 
 Place: **Aalst, Belgium**
 
@@ -92,7 +102,7 @@ Projects:
 - *Basware e-Archiving*: DevOps lead-in-charge and one of lead developers
   + CloudFormation, Jenkins, Bash, AWS CLI
   + Java Lambda functions, API GW, S3, DynamoDB, SQS, Splunk
-- *Norsu*: Introduced cross-systems end-to-end testing 
+- *Norsu*: Introduced cross-systems end-to-end testing
   + Groovy, Cucumber, Gradle
 - Business Metrics dashboards
   + Akka (Scala) and Dashing.io (Ruby)
@@ -101,8 +111,9 @@ Projects:
 - *HAL9000*: Flowdock bot (CI/CD automation helper for 100+ developers)
   + Go
 
+</details>
 
-### Freelance Consultant
+<details><summary><h3>Freelance Consultant</h3></summary>
 
 Place: **Remote** (part-time job)
 
@@ -113,8 +124,9 @@ Projects:
 - Support migration of einstants Flash to HTML5 (Script#, Grunt, RequireJS, Karma)
 - Various tasks related to new Switzerland Lottery’s online game LotoExpress
 
+</details>
 
-### Software consultant @ Cronos (Belgium)  2011 - 2013
+<details><summary><h3>Software consultant @ Cronos (Belgium)  2011 - 2013</h3></summary>
 
 Place: **Brussels, Belgium**
 
@@ -126,7 +138,9 @@ Projects:
   + Full-stack maintenance of global portal www.bnpparibas-ip.com (Java, Oracle, XSLT, Perl, JavaScript)
   + Server Synchronization: tool for content synchronization analysis over Solaris systems (Java)
 
-### Software Engineer II @ Gtech G2 Sports Betting
+</details>
+
+<details><summary><h3>Software Engineer II @ Gtech G2 Sports Betting</h3></summary>
 
 Place: **Belgrade, Serbia**
 
@@ -143,8 +157,9 @@ Projects:
   + Microsoft Visual Studio developer tool for immediate development cycle feedback (C# / Groovy for backend server)
 - *CipDroid*: Android application for internal issue management system
 
+</details>
 
-### Software Developer @ Arius (Serbia)  2007 - 2009
+<details><summary><h3>Software Developer @ Arius (Serbia)</h3></summary>
 
 Place: **Belgrade, Serbia**
 
@@ -160,7 +175,9 @@ Projects:
   + Mobile top-ups Java server transaction application (Java, JPOS Q2, WebSphere)
   + Offline vouchers project for Nigerian market (Java, C)
 
-### Intern software developer @ ESAProjekt
+</details>
+
+<details><summary><h3>Intern software developer @ ESAProjekt</h3></summary>
 
 Place: **Katowice, Poland**
 
@@ -170,7 +187,11 @@ Projects:
 
 - Usage of iOmniscient video recognition software for parking lots (C#)
 
-## Selected open source projects
+</details>
+
+</details>
+
+<details><summary><h2>Selected open source projects</h2></summary>
 
 - [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Netlify)
 - [gomakefiles](https://github.com/milanaleksic/gomakefiles) (Makefile, Bash)
@@ -189,7 +210,9 @@ Projects:
   + GUI application for executing USSD via AT commands on USB 3G modems
   + Supporting modems ZTE MF622 and Huawei E1550 on Windows and Linux
 
-## Selected closed source personal projects
+</details>
+
+<details><summary><h2>Selected closed source personal projects</h2></summary>
 
 - Batler (automation Telegram bot)
   + Go, BADUC
@@ -211,9 +234,11 @@ Projects:
   + Platform for integration of numerous (thirteen) tools (SWT, Smack, JMF...)
   + Including Jabber bot, scheduled SQL firing, ISO8583 message parser etc
 
-## Miscellaneous
+</details>
 
-### Public talks  
+<details><summary><h2>Miscellaneous</h2></summary>
+
+### Public talks
 
 - (BeScala) [Introducing a reactive Scala-Akka based system in a Java centric company](http://www.meetup.com/BeScala/events/220967046/)
   + with Jeroen Verellen, 2015
@@ -239,14 +264,16 @@ Projects:
 
 ### Appendixes
 
-<a name="appendix-1"></a>[1] [Recommendation by prof. Igor Tartalja (Belgrade ETF)](https://aleksic.dev/public/cv-app1)      
+<a name="appendix-1"></a>[1] [Recommendation by prof. Igor Tartalja (Belgrade ETF)](https://aleksic.dev/public/cv-app1)
 
 <a name="appendix-2"></a>[2] [Recommendation by Rafal Dunal (internship in Poland)](https://aleksic.dev/public/cv-app2)
-      
+
 <a name="appendix-3"></a>[3] [GTECH Silver Building Excellence Award](https://aleksic.dev/public/cv-app3)
 
-<a name="appendix-4"></a>[4] [GTECH Gold Building Excellence Award](https://aleksic.dev/public/cv-app4)      
+<a name="appendix-4"></a>[4] [GTECH Gold Building Excellence Award](https://aleksic.dev/public/cv-app4)
 
 <a name="appendix-5"></a>[5] [Common European Framework of Reference for Languages and NT2 providers](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf)
-      
+
 <a name="appendix-6"></a>[6] [De Gelijkwaardigheid van Buitenlandse diploma’s en studiegetuigschriften met een Vlaamse academische graad](https://aleksic.dev/public/cv-nostrification)
+
+</details>
