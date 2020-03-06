@@ -15,3 +15,14 @@ jobs:
         with:
           name: cv.html
           path: cv.html
+
+  upload_to_website:
+    needs: convert_via_pandoc
+    steps:
+      - name: Download Soda JAR
+        uses: actions/download-artifact@v1
+        with:
+          name: cv.html
+      - name: Upload to Website
+        if: failure()
+        run: .github/scripts/upload_cv.py
