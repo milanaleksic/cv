@@ -11,18 +11,5 @@ jobs:
       - uses: docker://pandoc/latex:2.9
         with:
           args: "-s -f markdown -H mini-default.min.css cv.md --metadata pagetitle=CV -o cv.html"
-      - uses: actions/upload-artifact@master
-        with:
-          name: cv.html
-          path: cv.html
-
-  upload_to_website:
-    needs: convert_via_pandoc
-    steps:
-      - name: Download Soda JAR
-        uses: actions/download-artifact@v1
-        with:
-          name: cv.html
       - name: Upload to Website
-        if: failure()
         run: .github/scripts/upload_cv.py
