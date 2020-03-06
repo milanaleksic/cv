@@ -1,7 +1,7 @@
-name: Generate Docs from Markdown
+#!/usr/bin/env python3
 
+name: CI/CD
 on: push
-
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-18.04
