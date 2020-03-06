@@ -126,7 +126,7 @@ Projects:
 
 </details>
 
-<details><summary><h3>Software consultant @ Cronos (Belgium)  2011 - 2013</h3></summary>
+<details><summary><h3>Software consultant @ Cronos (Belgium)</h3></summary>
 
 Place: **Brussels, Belgium**
 

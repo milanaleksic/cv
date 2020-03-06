@@ -1,2 +1,2 @@
 build:
-	pandoc -s -f markdown -H mini-default.min.css cv.md --metadata pagetitle=CV -o cv.html
+	pandoc -s -f markdown -H header.html cv.md --metadata pagetitle=CV -o cv.html

@@ -10,7 +10,7 @@ jobs:
       - run: mkdir output
       - uses: docker://pandoc/latex:2.9
         with:
-          args: "-s -f markdown -H mini-default.min.css cv.md --metadata pagetitle=CV -o cv.html"
+          args: "-s -f markdown -H header.html cv.md --metadata pagetitle=CV -o cv.html"
       - name: Upload to Website
         run: .github/scripts/upload_cv.py
         env:
