@@ -14,7 +14,7 @@ My public GPG key is: [0xDF7A2E812429D391](https://pgp.mit.edu/pks/lookup?op=get
 
 Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (Serbia), Faculty of Electrical Engineering (ETF)
 
-“NARIC – Vlaanderen” recognized diploma as M.Sc. [\[6\]](#appendix-6)
+“NARIC – Vlaanderen” [recognized diploma as M.Sc.](https://aleksic.dev/public/cv-nostrification)
 
 </details>
 
@@ -22,7 +22,7 @@ Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (
 
 - **Serbian** (mother tongue)
 - **English** (fluent)
-- **Dutch** (C1 Effectiveness 1, [\[5\]](#appendix-5))
+- **Dutch** (C1 Effectiveness 1, explained in [Common European Framework of Reference for Languages and NT2 providers](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf))
 
 </details>
 
@@ -253,8 +253,8 @@ Projects:
 
 ### Awards
 
-- Gtech Silver Building Excellence Award (2009) [\[3\]](#appendix-3)
-- Gtech Gold Building Excellence Award (2010) [\[4\]](#appendix-4)
+- [Gtech Silver Building Excellence Award (2009)](https://aleksic.dev/public/cv-app3)
+- [Gtech Gold Building Excellence Award (2010)](https://aleksic.dev/public/cv-app4)
 
 ### Certifications
 
@@ -262,18 +262,10 @@ Projects:
 - Oracle Certified Professional, Java EE 5 Web Component Developer (OCPWCD 5) (2011)
 - Oracle Certified Expert, Java EE 6 Java Persistence API Developer (OCEJPA 6) (2012)
 
-### Appendixes
+### Recommendations
 
-<a name="appendix-1"></a>[1] [Recommendation by prof. Igor Tartalja (Belgrade ETF)](https://aleksic.dev/public/cv-app1)
-
-<a name="appendix-2"></a>[2] [Recommendation by Rafal Dunal (internship in Poland)](https://aleksic.dev/public/cv-app2)
-
-<a name="appendix-3"></a>[3] [GTECH Silver Building Excellence Award](https://aleksic.dev/public/cv-app3)
-
-<a name="appendix-4"></a>[4] [GTECH Gold Building Excellence Award](https://aleksic.dev/public/cv-app4)
-
-<a name="appendix-5"></a>[5] [Common European Framework of Reference for Languages and NT2 providers](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf)
-
-<a name="appendix-6"></a>[6] [De Gelijkwaardigheid van Buitenlandse diploma’s en studiegetuigschriften met een Vlaamse academische graad](https://aleksic.dev/public/cv-nostrification)
+- [Recommendation by prof. Igor Tartalja (Belgrade ETF)](https://aleksic.dev/public/cv-app1)
+- [Recommendation by Rafal Dunal (internship in Poland)](https://aleksic.dev/public/cv-app2)
+- [Additional recommendations on my LinkedIn profile](https://www.linkedin.com/in/milanaleksic/)
 
 </details>
