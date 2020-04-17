@@ -49,7 +49,7 @@ class UploadCv:
             'User-Agent': 'GithubActions',
         }
         payload = {
-            'message': 'Update the CV from the upstream CV project',
+            'message': f'Update the CV from the upstream CV project (file {file})',
             'content': data.decode("utf-8"),
             'sha': sha
         }
