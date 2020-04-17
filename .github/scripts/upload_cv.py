@@ -58,7 +58,8 @@ class UploadCv:
         response = conn.getresponse()
         logging.info("Put command response: ", response.status)
 
-    def _get_cv_as_base64(self, file) -> bytes:
+    @staticmethod
+    def _get_cv_as_base64(file) -> bytes:
         cv_location = os.path.join(os.path.dirname(__file__), '../../', file)
         with open(cv_location, "rb") as cv:
             return base64.b64encode(cv.read())
