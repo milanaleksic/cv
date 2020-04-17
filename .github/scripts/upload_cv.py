@@ -6,9 +6,10 @@ import json
 import os
 import ssl
 import urllib.request
+from urllib.error import HTTPError
 
 WEBSITE_REPO = "milanaleksic/man-website"
-CV_LOCATION_IN_WEBSITE = "static/public/cv.html"
+CV_LOCATION_IN_WEBSITE = "static/public/"
 GITHUB_API = "api.github.com"
 CV_API_URL = f"/repos/{WEBSITE_REPO}/contents/{CV_LOCATION_IN_WEBSITE}"
 CV_CRUD_URL = f"https://{GITHUB_API}{CV_API_URL}"
@@ -25,12 +26,17 @@ class UploadCv:
         context.verify_mode = ssl.CERT_NONE
         return context
 
-    def get_previous_sha(self) -> str:
-        with urllib.request.urlopen(CV_CRUD_URL, context=self.ctx) as url:
-            data = json.loads(url.read().decode())
-            return data['sha']
+    def _get_previous_sha(self, file: str) -> str:
+        try:
+            with urllib.request.urlopen(CV_CRUD_URL + file, context=self.ctx) as url:
+                data = json.loads(url.read().decode())
+                return data['sha']
+        except HTTPError as e:
+            return ""
 
-    def upload_new_cv(self, cv, sha: str):
+    def upload_file(self, file: str):
+        sha = self._get_previous_sha(file)
+        data = self._get_cv_as_base64(file)
         http.client.HTTPConnection.debuglevel = 1
         conn = http.client.HTTPSConnection(GITHUB_API, context=self.ctx)
         credentials_raw = bytes('milanaleksic:' + os.environ['TOKEN_TO_UPLOAD'], "utf-8")
@@ -43,24 +49,21 @@ class UploadCv:
         }
         payload = {
             'message': 'Update the CV from the upstream CV project',
-            'content': cv.decode("utf-8"),
+            'content': data.decode("utf-8"),
             'sha': sha
         }
         json_data = json.dumps(payload)
-        conn.request("PUT", CV_API_URL, json_data, headers=headers)
+        conn.request("PUT", CV_API_URL + file, json_data, headers=headers)
         response = conn.getresponse()
         print(response.status, response.reason)
 
-
-def get_cv_as_base64() -> str:
-    cv_location = os.path.join(os.path.dirname(__file__), '../../cv.html')
-    with open(cv_location, "rb") as cv:
-        return base64.b64encode(cv.read())
+    def _get_cv_as_base64(self, file) -> bytes:
+        cv_location = os.path.join(os.path.dirname(__file__), '../../', file)
+        with open(cv_location, "rb") as cv:
+            return base64.b64encode(cv.read())
 
 
 if __name__ == '__main__':
     upload_cv = UploadCv()
-    sha = upload_cv.get_previous_sha()
-    print(f"Previous SHA was: {sha}")
-    cv = get_cv_as_base64()
-    upload_cv.upload_new_cv(cv, sha)
+    upload_cv.upload_file('cv.html')
+    upload_cv.upload_file('cv.pdf')
