@@ -10,3 +10,7 @@ What it does:
 ## Mac
 
 To build PDF you need `brew cask install basictex`
+
+## Linux
+
+Look at the file `.github/workflows/main.yml` to see what are preconditions on an Ubuntu box
