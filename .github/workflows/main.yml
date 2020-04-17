@@ -15,7 +15,7 @@ jobs:
             texlive-fonts-recommended \
             make
           wget https://github.com/jgm/pandoc/releases/download/2.9.2.1/pandoc-2.9.2.1-1-amd64.deb -O pandoc.deb
-          dpkg -i pandoc.deb
+          sudo dpkg -i pandoc.deb
           make
       - name: Upload to Website
         run: .github/scripts/upload_cv.py
