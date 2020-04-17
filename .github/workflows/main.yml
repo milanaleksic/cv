@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: |
           sudo apt-get install \
-            wget
+            wget \
             texlive-latex-base \
             texlive-latex-recommended \
             texlive-fonts-recommended \
