@@ -3,6 +3,7 @@
 import base64
 import http.client
 import json
+import logging
 import os
 import ssl
 import urllib.request
@@ -55,7 +56,7 @@ class UploadCv:
         json_data = json.dumps(payload)
         conn.request("PUT", CV_API_URL + file, json_data, headers=headers)
         response = conn.getresponse()
-        print(response.status, response.reason)
+        logging.info("Put command response: ", response.status)
 
     def _get_cv_as_base64(self, file) -> bytes:
         cv_location = os.path.join(os.path.dirname(__file__), '../../', file)
