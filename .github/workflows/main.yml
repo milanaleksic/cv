@@ -8,8 +8,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-        apt install pandoc basictex make
-        make
+          apt install pandoc basictex make
+          make
       - name: Upload to Website
         run: .github/scripts/upload_cv.py
         env:
