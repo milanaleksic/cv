@@ -9,7 +9,12 @@ What it does:
 
 ## Mac
 
-To build PDF you need `brew cask install basictex`
+To build PDF you need: 
+
+```
+brew install pandoc
+brew cask install basictex
+```
 
 ## Linux
 
