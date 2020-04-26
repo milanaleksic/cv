@@ -28,12 +28,7 @@ Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (
 
 <details><summary><h2>Keywords</h2></summary>
 
-- Java
-- Go
-- AWS
-- Python
-- PostgreSQL
-- JavaScript
+Java, Go, AWS, Python, PostgreSQL, JavaScript
 
 </details>
 
@@ -196,14 +191,10 @@ Projects:
 - [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Netlify)
 - [gomakefiles](https://github.com/milanaleksic/gomakefiles) (Makefile, Bash)
   + Reusable Makefile files which allow cross CI/CD Go compilation with many useful tools
-- [Notes For Life](https://github.com/milanaleksic/notesforlife) (Go; BADUC)
-  + Dropbox-to-Dokuwiki sync
 - [Igor](https://github.com/milanaleksic/igor) (Go Lambda, Vue.js, Google+, CloudFront, Cognito, DynamoDB)
   + “I am away” Flowdock bot, deployed via Semaphore.ci + CloudFormation
 - [Clici for Jenkins](https://github.com/milanaleksic/clici) (Go)
   + Customizable Jenkins ncurses-like command line tool to follow Jenkins jobs
-- [HostChecker](https://github.com/milanaleksic/hostchecker) (Go)
-  + Uses JSON DSL to verify expectations which a certain cluster of machines must fulfil
 - [Baobab](https://milanaleksic.github.io/baobab/) (Java)
   + JSON-to-SWT mapping and annotation-driven MVC GUI framework
 - [MtsCheckAccount](https://github.com/milanaleksic/mtscheckaccount) (Java, GNU RxTx)
@@ -229,7 +220,6 @@ Projects:
   + TMDB integration (find-a-movie, posters, IMDB links)
   + Custom SWT components for UX, multi-master optimistic replication via vector clocks,
   + Versioned database alteration and restoration from backup
-
 - Collaborative Utilities Concept (Java, Baobab)
   + Platform for integration of numerous (thirteen) tools (SWT, Smack, JMF...)
   + Including Jabber bot, scheduled SQL firing, ISO8583 message parser etc
