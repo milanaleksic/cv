@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 06/03/2020
+Last updated: 05/05/2020
 
 ## Personal
 
@@ -42,7 +42,8 @@ Period: **2020-...**
 
 Projects:
 
-- SodaData Data Quality system (backend engineer, Java)
+- SodaData Data Quality system (backend engineer)
+  + AWS, Java, Python, Spark
 
 </details>
 
