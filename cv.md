@@ -189,6 +189,7 @@ Projects:
 <details><summary><h2>Selected open source projects</h2></summary>
 
 - [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Netlify)
+- [Advent of Code 2018](https://github.com/milanaleksic/adentofcode2018) (Go)
 - [gomakefiles](https://github.com/milanaleksic/gomakefiles) (Makefile, Bash)
   + Reusable Makefile files which allow cross CI/CD Go compilation with many useful tools
 - [Igor](https://github.com/milanaleksic/igor) (Go Lambda, Vue.js, Google+, CloudFront, Cognito, DynamoDB)
@@ -207,7 +208,6 @@ Projects:
 
 - Batler (automation Telegram bot)
   + Go, BADUC
-- Advent Of Code 2018 (Go)
 - BADUC (Bastion+DroneCI+Usher+Consul; also Chef, Gitea, SystemD)
   + CD system for software deployment  in my home network via Go microservices
 - VOZ (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap 4; BADUC)
