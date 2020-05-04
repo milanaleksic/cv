@@ -190,7 +190,7 @@ Projects:
 <details><summary><h2>Selected open source projects</h2></summary>
 
 - [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Netlify)
-- [Advent of Code 2018](https://github.com/milanaleksic/adentofcode2018) (Go)
+- [Advent of Code 2018](https://github.com/milanaleksic/adventofcode2018) (Go)
 - [gomakefiles](https://github.com/milanaleksic/gomakefiles) (Makefile, Bash)
   + Reusable Makefile files which allow cross CI/CD Go compilation with many useful tools
 - [Igor](https://github.com/milanaleksic/igor) (Go Lambda, Vue.js, Google+, CloudFront, Cognito, DynamoDB)
