@@ -113,7 +113,7 @@ Projects:
 
 Place: **Remote** (part-time job)
 
-Period: 2014
+Period: **2014**
 
 Projects:
 
@@ -211,9 +211,10 @@ Projects:
   + Go, BADUC
 - BADUC (Bastion+DroneCI+Usher+Consul; also Chef, Gitea, SystemD)
   + CD system for software deployment  in my home network via Go microservices
-- VOZ (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap 4; BADUC)
+- [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap 4; BADUC)
   + Feature-rich web page content extraction service
   + Integration with IFTTT, Wallabag v1 API compatibility, Search Query grammar
+  + Experimental native Android application
 - NovinarnicaDownload (Scala, Akka, Spray.io, Google OAuth&GMail, Pushbullet)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
 - Movie Catalog System (Java, Baobab)
