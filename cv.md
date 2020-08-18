@@ -8,7 +8,7 @@ Born on 21/12/1983, Smederevo (Serbia), living in Koekelberg (Belgium) since 201
 
 My website is [aleksic.dev](https://aleksic.dev), email is [milan@aleksic.dev](mailto:milan@aleksic.dev) and Twitter account is: [milanaleksic](https://twitter.com/milanaleksic).
 I also have a [LinkedIn account](https://www.linkedin.com/in/milanaleksic) if you'd like to connect with me.
-My public GPG key is: [0xDF7A2E812429D391](https://pgp.mit.edu/pks/lookup?op=get&search=0xDF7A2E812429D391).
+My public GPG key is: [0xDF7A2E812429D391](https://pgp.key-server.io/pks/lookup?search=0xDF7A2E812429D391&fingerprint=on&op=vindex).
 
 <details><summary><h2>Education</h2></summary>
 
