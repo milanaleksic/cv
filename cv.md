@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 13/05/2020
+Last updated: 15/09/2020
 
 ## Personal
 
@@ -42,8 +42,8 @@ Period: **2020-...**
 
 Projects:
 
-- SodaData Data Quality system (backend engineer)
-  + AWS, Java, Python, Spark
+- soda.io Data Quality (backend engineer)
+  + AWS, Java, Python, MySQL, Spark
 
 </details>
 
@@ -207,10 +207,13 @@ Projects:
 
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
-- Batler (automation Telegram bot)
-  + Go, BADUC
 - BADUC (Bastion+DroneCI+Usher+Consul; also Chef, Gitea, SystemD)
-  + CD system for software deployment  in my home network via Go microservices
+  + CD system for arrifact deployment in my home network
+  + Uses self-developed Go microservices like Bastion (HTTP deployment trigger), Usher (node agents that execute deployment)
+  + Deployment workflow handled via combination of Consul, SystemD and Chef
+- Batler (Go, BADUC)
+  + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM
+  + Used as on-prem notification bridge for Synology and all other services
 - [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap 4; BADUC)
   + Feature-rich web page content extraction service
   + Integration with IFTTT, Wallabag v1 API compatibility, Search Query grammar
