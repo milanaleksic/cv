@@ -208,16 +208,16 @@ Projects:
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
 - BADUC (Bastion+DroneCI+Usher+Consul; also Chef, Gitea, SystemD)
-  + CD system for arrifact deployment in my home network
-  + Uses self-developed Go microservices like Bastion (HTTP deployment trigger), Usher (node agents that execute deployment)
-  + Deployment workflow handled via combination of Consul, SystemD and Chef
+  + CD system for artifact deployment in my home network
+  + Uses self-developed Go microservices like Bastion (HTTP server endpoint to trigger deployment), Usher (node agents that execute deployment)
+  + Deployment workflow handled via combination of DroneCI (or Semaphore CI) Consul, SystemD and Chef
 - Batler (Go, BADUC)
   + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM
   + Used as on-prem notification bridge for Synology and all other services
-- [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap 4; BADUC)
+- [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
   + Feature-rich web page content extraction service
   + Integration with IFTTT, Wallabag v1 API compatibility, Search Query grammar
-  + Experimental native Android application
+  + Mobile applications built using Flatter (Android, iOS)
 - NovinarnicaDownload (Scala, Akka, Spray.io, Google OAuth&GMail, Pushbullet)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
 - Movie Catalog System (Java, Baobab)
