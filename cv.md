@@ -217,7 +217,7 @@ Projects:
 - [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
   + Feature-rich web page content extraction service
   + Integration with IFTTT, Wallabag v1 API compatibility, Search Query grammar
-  + Mobile applications built using Flatter (Android, iOS)
+  + Mobile applications built using Flutter (Android, iOS)
 - NovinarnicaDownload (Scala, Akka, Spray.io, Google OAuth&GMail, Pushbullet)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
 - Movie Catalog System (Java, Baobab)
