@@ -7,6 +7,7 @@ Last updated: 15/09/2020
 Born on 21/12/1983, Smederevo (Serbia), living in Koekelberg (Belgium) since 2011. I have dual citizenship of Belgium and Serbia.
 
 My website is [aleksic.dev](https://aleksic.dev), email is [milan@aleksic.dev](mailto:milan@aleksic.dev) and Twitter account is: [milanaleksic](https://twitter.com/milanaleksic).
+I am fairly active on [github.com/milanaleksic](https://github.com/milanaleksic).
 I also have a [LinkedIn account](https://www.linkedin.com/in/milanaleksic) if you'd like to connect with me.
 My public GPG key is: [0xDF7A2E812429D391](https://pgp.key-server.io/pks/lookup?search=0xDF7A2E812429D391&fingerprint=on&op=vindex).
 
@@ -43,7 +44,9 @@ Period: **2020-...**
 Projects:
 
 - soda.io Data Quality (backend engineer)
-  + AWS, Java, Python, MySQL, Spark
+  + Cloud development on AWS (using Terraform and Pulumi)
+  + Programming languages: Java 8 and Python 3, 
+  + Broad data sources coverage: MySQL, PostgreSQL, Redshift, Spark
 
 </details>
 
@@ -207,6 +210,10 @@ Projects:
 
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
+- Home Laboratory
+  + Cluster of 8+ hybrid (ARM 5/6/7, amd64) servers and 3 switches
+  + Chef (Zero) used for config mgmt, Gitea as git repo
+  + Monitoring via Grafana, InfluxDB, Grafana Loki 
 - BADUC (Bastion+DroneCI+Usher+Consul; also Chef, Gitea, SystemD)
   + CD system for artifact deployment in my home network
   + Uses self-developed Go microservices like Bastion (HTTP server endpoint to trigger deployment), Usher (node agents that execute deployment)
@@ -215,8 +222,8 @@ Projects:
   + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM
   + Used as on-prem notification bridge for Synology and all other services
 - [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
-  + Feature-rich web page content extraction service
-  + Integration with IFTTT, Wallabag v1 API compatibility, Search Query grammar
+  + Feature-rich web page content extraction and knokwledge graph service
+  + Search Query grammar, AWS S3 asset service
   + Mobile applications built using Flutter (Android, iOS)
 - NovinarnicaDownload (Scala, Akka, Spray.io, Google OAuth&GMail, Pushbullet)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
