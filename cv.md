@@ -62,14 +62,14 @@ Feature development and maintenance of various core systems and applications in 
 
 Projects:
 
-- *MLF library*: authored code-generated POJO Java wrapper around GDAL OpenFileGDB.
+- *MLF library*: authored code-generated Java wrapper around GDAL OpenFileGDB (later extended to PostGIS and GeoPackage).
   + Custom ANTLR grammar for extended validation, Python/Markdown doc generator
 - *Sinatra*: Led migration of a complex process into AWS for GIS source data digestion
   + PostgreSQL RDS, Spring Boot 2, SQS, ECS, Terraform, Vue.js
 - *Pupin*: created machine learning cloud service for data classification (plural junctions problem)
   + Training: PostGIS, Python, Scikit-Learn, XGBoost, (Geo)Pandas, Jupyter
   + Online+Batch prediction: Terraform / AWS ECS, Spring Boot 2, XGBoost, REST
-- *Dumbo*: migration of batch processing tool into the cloud
+- *Dumbo*: migration of used batch processing tool into the cloud
   + AWS Batch, ECS, PostgreSQL, S3, X-Ray; Spring Boot 2, Terraform, Python, Jenkins
 - *Excelsior*: process orchestration service
   + [States Language implementation](https://states-language.net/spec.html) (spec only), ECS+Lambda, Java 11, Python 3
