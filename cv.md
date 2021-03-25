@@ -45,8 +45,9 @@ Projects:
 
 - soda.io Data Quality (backend engineer)
   + Cloud development on AWS (using Terraform and Pulumi)
-  + Programming languages: Java 8 and Python 3, 
-  + Broad data sources coverage: MySQL, PostgreSQL, Redshift, Spark
+  + Broad data sources coverage: MySQL, PostgreSQL, Redshift, Athena; Spark
+  + Tasked with feature development, integration, operational monitoring;
+  + Programming languages: Java 11 and Python 3
 
 </details>
 
