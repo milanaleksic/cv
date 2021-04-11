@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 15/09/2020
+Last updated: 11/04/2021
 
 ## Personal
 
@@ -43,10 +43,10 @@ Period: **2020-...**
 
 Projects:
 
-- soda.io Data Quality (backend engineer)
+- soda.io Cloud/Enterprise Backend engineer
   + Cloud development on AWS (using Terraform and Pulumi)
   + Broad data sources coverage: MySQL, PostgreSQL, Redshift, Athena; Spark
-  + Tasked with feature development, integration, operational monitoring;
+  + Tasked with feature development, integration, reliability;
   + Programming languages: Java 11 and Python 3
 
 </details>
@@ -70,7 +70,7 @@ Projects:
 - *Pupin*: created machine learning cloud service for data classification (plural junctions problem)
   + Training: PostGIS, Python, Scikit-Learn, XGBoost, (Geo)Pandas, Jupyter
   + Online+Batch prediction: Terraform / AWS ECS, Spring Boot 2, XGBoost, REST
-- *Dumbo*: migration of used batch processing tool into the cloud
+- *Dumbo*: migration of internal heavily used batch processing tool into the cloud
   + AWS Batch, ECS, PostgreSQL, S3, X-Ray; Spring Boot 2, Terraform, Python, Jenkins
 - *Excelsior*: process orchestration service
   + [States Language implementation](https://states-language.net/spec.html) (spec only), ECS+Lambda, Java 11, Python 3
@@ -212,9 +212,9 @@ Projects:
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
 - Home Laboratory
-  + Cluster of 8+ hybrid (ARM 5/6/7, amd64) servers and 3 switches
+  + Cluster of 8+ hybrid (ARM 5/6/7, amd64, cloud instances) servers and 3 switches
   + Chef (Zero) used for config mgmt, Gitea as git repo
-  + Monitoring via Grafana, InfluxDB, Grafana Loki 
+  + Monitoring via Grafana, InfluxDB, Grafana Loki and Tempo
 - BADUC (Bastion+DroneCI+Usher+Consul; also Chef, Gitea, SystemD)
   + CD system for artifact deployment in my home network
   + Uses self-developed Go microservices like Bastion (HTTP server endpoint to trigger deployment), Usher (node agents that execute deployment)
