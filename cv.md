@@ -193,6 +193,10 @@ Projects:
 
 <details><summary><h2>Selected open source projects</h2></summary>
 
+- [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
+  + Feature-rich web page content extraction and knokwledge graph service
+  + Search Query grammar, AWS S3 asset service
+  + (closed source) Mobile applications built using Flutter (Android, iOS)
 - [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Netlify)
 - [Advent of Code 2018](https://github.com/milanaleksic/adventofcode2018) (Go)
 - [gomakefiles](https://github.com/milanaleksic/gomakefiles) (Makefile, Bash)
@@ -222,10 +226,6 @@ Projects:
 - Batler (Go, BADUC)
   + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM
   + Used as on-prem notification bridge for Synology and all other services
-- [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
-  + Feature-rich web page content extraction and knokwledge graph service
-  + Search Query grammar, AWS S3 asset service
-  + Mobile applications built using Flutter (Android, iOS)
 - NovinarnicaDownload (Scala, Akka, Spray.io, Google OAuth&GMail, Pushbullet)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
 - Movie Catalog System (Java, Baobab)
