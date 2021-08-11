@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 11/04/2021
+Last updated: 06/08/2021
 
 ## Personal
 
@@ -44,9 +44,9 @@ Period: **2020-...**
 Projects:
 
 - soda.io Cloud/Enterprise Backend engineer
-  + Cloud development on AWS (using Terraform and Pulumi)
+  + Cloud development on AWS using Terraform
   + Broad data sources coverage: MySQL, PostgreSQL, Redshift, Athena; Spark
-  + Tasked with feature development, integration, reliability;
+  + Tasked with feature development planning & implementation guidance, integration, reliability and other operational concerns;
   + Programming languages: Java 11 and Python 3
 
 </details>
@@ -195,8 +195,8 @@ Projects:
 
 - [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
   + Feature-rich web page content extraction and knokwledge graph service
-  + Search Query grammar, AWS S3 asset service
-  + (closed source) Mobile applications built using Flutter (Android, iOS)
+  + Search Query grammar, Pulumi-based AWS cloud setup
+  + (closed source) mobile applications built using Flutter (Android, iOS)
 - [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Netlify)
 - [Advent of Code 2018](https://github.com/milanaleksic/adventofcode2018) (Go)
 - [gomakefiles](https://github.com/milanaleksic/gomakefiles) (Makefile, Bash)
