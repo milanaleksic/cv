@@ -193,7 +193,7 @@ Projects:
 
 <details><summary><h2>Selected open source projects</h2></summary>
 
-- [thoughttrain.app](https://thoughttrain.app) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
+- [Thought Train](https://github.com/milanaleksic/thoughttrain) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
   + Feature-rich web page content extraction and knokwledge graph service
   + Search Query grammar, Pulumi-based AWS cloud setup
   + (closed source) mobile applications built using Flutter (Android, iOS)
