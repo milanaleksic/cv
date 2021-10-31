@@ -44,9 +44,9 @@ Period: **2020-...**
 Projects:
 
 - soda.io Cloud/Enterprise Backend engineer
-  + Cloud development on AWS using Terraform
-  + Broad data sources coverage: MySQL, PostgreSQL, Redshift, Athena; Spark
-  + Tasked with feature development planning & implementation guidance, integration, reliability and other operational concerns;
+  + Cloud development on AWS using Terraform (ECS, Batch, SQS, RDS MySQL...)
+  + Broad data sources coverage: PostgreSQL, Redshift, Athena, Spark
+  + Tasked with feature development planning & implementation guidance, integration, reliability and other operational concerns
   + Programming languages: Java 11 and Python 3
 
 </details>
