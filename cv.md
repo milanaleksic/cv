@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 06/08/2021
+Last updated: 14/01/2022
 
 ## Personal
 
@@ -44,10 +44,10 @@ Period: **2020-...**
 Projects:
 
 - soda.io Cloud/Enterprise Backend engineer
+  + Programming languages: (mostly) Java 8/11/17 and Python 3
   + Cloud development on AWS using Terraform (ECS, Batch, SQS, RDS MySQL...)
   + Broad data sources coverage: PostgreSQL, Redshift, Athena, Spark
   + Tasked with feature development planning & implementation guidance, integration, reliability and other operational concerns
-  + Programming languages: Java 11 and Python 3
 
 </details>
 
