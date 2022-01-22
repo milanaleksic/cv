@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 14/01/2022
+Last updated: 22/01/2022
 
 ## Personal
 
@@ -47,7 +47,9 @@ Projects:
   + Programming languages: (mostly) Java 8/11/17 and Python 3
   + Cloud development on AWS using Terraform (ECS, Batch, SQS, RDS MySQL...)
   + Broad data sources coverage: PostgreSQL, Redshift, Athena, Spark
-  + Tasked with feature development planning & implementation guidance, integration, reliability and other operational concerns
+  + Tasked with backend feature development guidance, integration, 
+    reliability and other operational concerns of the Soda Cloud solution from the "early days"
+  + Created internal `do.py` tool for various devops/security tasks
 
 </details>
 
@@ -197,7 +199,9 @@ Projects:
   + Feature-rich web page content extraction and knokwledge graph service
   + Search Query grammar, Pulumi-based AWS cloud setup
   + (closed source) mobile applications built using Flutter (Android, iOS)
-- [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Netlify)
+- [Github Helper CLI](https://github.com/milanaleksic/ghh) (Rust, Github API)
+  + epic issues dependency graph handling, branch names and other "my flow" helpers
+- [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Cloudflare Pages)
 - [Advent of Code 2018](https://github.com/milanaleksic/adventofcode2018) (Go)
 - [gomakefiles](https://github.com/milanaleksic/gomakefiles) (Makefile, Bash)
   + Reusable Makefile files which allow cross CI/CD Go compilation with many useful tools
