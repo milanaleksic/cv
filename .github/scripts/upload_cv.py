@@ -6,6 +6,7 @@ import json
 import logging
 import os
 import ssl
+import time
 import urllib.request
 from urllib.error import HTTPError
 
@@ -68,4 +69,7 @@ class UploadCv:
 if __name__ == '__main__':
     upload_cv = UploadCv()
     upload_cv.upload_file('cv.html')
+    # FIXME: Cloudflare Pages builder doesn't let last commit win, so we need to let it rest between commits, unfortunately
+    # Proper fix would pobably be to open a PR, then push changes on these 2 files and then merge it
+    time.sleep(60)
     upload_cv.upload_file('cv.pdf')
