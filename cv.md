@@ -46,10 +46,10 @@ Projects:
 - soda.io Cloud/Enterprise Backend engineer
   + Programming languages: (mostly) Java 8/11/17 and Python 3
   + Cloud development on AWS using Terraform (ECS, Batch, SQS, RDS MySQL...)
-  + Broad data sources coverage: PostgreSQL, Redshift, Athena, Spark
-  + Tasked with backend feature development guidance, integration, 
-    reliability and other operational concerns of the Soda Cloud solution from the "early days"
-  + Created internal `do.py` tool for various devops/security tasks
+  + Tasked with backend feature development, guidance and documentation 
+  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud solution in the "early days", handed over to dedicated personnel as we grew
+- Created internal `do.py` tool for various devops/security tasks
+- Broad data sources exposure while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
 
 </details>
 
@@ -187,7 +187,7 @@ Period: **2006**
 
 Projects:
 
-- Usage of iOmniscient video recognition software for parking lots (C#)
+- Case study of iOmniscient video recognition software application for parking lots (C#)
 
 </details>
 
@@ -196,7 +196,7 @@ Projects:
 <details><summary><h2>Selected open source projects</h2></summary>
 
 - [Thought Train](https://github.com/milanaleksic/thoughttrain) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
-  + Feature-rich web page content extraction and knokwledge graph service
+  + Feature-rich web page content extraction and knowledge graph service
   + Search Query grammar, Pulumi-based AWS cloud setup
   + (closed source) mobile applications built using Flutter (Android, iOS)
 - [Github Helper CLI](https://github.com/milanaleksic/ghh) (Rust, Github API)
@@ -221,15 +221,16 @@ Projects:
 
 - Home Laboratory
   + Cluster of 8+ hybrid (ARM 5/6/7, amd64, cloud instances) servers and 3 switches
-  + Chef (Zero) used for config mgmt, Gitea as git repo
+  + Chef (Zero) used for config mgmt (moving to Ansible+Nomad), Gitea as git repo
   + Monitoring via Grafana, InfluxDB, Grafana Loki and Tempo
 - BADUC (Bastion+DroneCI+Usher+Consul; also Chef, Gitea, SystemD)
   + CD system for artifact deployment in my home network
   + Uses self-developed Go microservices like Bastion (HTTP server endpoint to trigger deployment), Usher (node agents that execute deployment)
   + Deployment workflow handled via combination of DroneCI (or Semaphore CI) Consul, SystemD and Chef
+  + Proven to myself I can build a system like this, I am slowly moving away from it (to Nomad)
 - Batler (Go, BADUC)
   + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM
-  + Used as on-prem notification bridge for Synology and all other services
+  + Used as on-prem notification gateway for Synology and all other services
 - NovinarnicaDownload (Scala, Akka, Spray.io, Google OAuth&GMail, Pushbullet)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
 - Movie Catalog System (Java, Baobab)
