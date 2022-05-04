@@ -10,7 +10,7 @@ import time
 import urllib.request
 from urllib.error import HTTPError
 
-WEBSITE_REPO = "milanaleksic/man-website"
+WEBSITE_REPO = "milanaleksic/aleksic.dev"
 CV_LOCATION_IN_WEBSITE = "static/public/"
 GITHUB_API = "api.github.com"
 CV_API_URL = f"/repos/{WEBSITE_REPO}/contents/{CV_LOCATION_IN_WEBSITE}"
