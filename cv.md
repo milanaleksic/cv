@@ -195,10 +195,6 @@ Projects:
 
 <details><summary><h2>Selected open source projects</h2></summary>
 
-- [Thought Train](https://github.com/milanaleksic/thoughttrain) (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap; BADUC)
-  + Feature-rich web page content extraction and knowledge graph service
-  + Search Query grammar, Pulumi-based AWS cloud setup
-  + (closed source) mobile applications built using Flutter (Android, iOS)
 - [Github Helper CLI](https://github.com/milanaleksic/ghh) (Rust, Github API)
   + epic issues dependency graph handling, branch names and other "my flow" helpers
 - [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Cloudflare Pages)
@@ -220,19 +216,24 @@ Projects:
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
 - Home Laboratory
-  + Cluster of 8+ hybrid (ARM 5/6/7, amd64, cloud instances) servers and 3 switches
-  + Chef (Zero) used for config mgmt (moving to Ansible+Nomad), Gitea as git repo
+  + Cluster of 7 hybrid (aarch64, amd64, on premises and on cloud) servers and 3 switches
+  + Ansible for bootstrapping, Nomad/Consul for job scheduling, Gitea as git repo
   + Monitoring via Grafana, InfluxDB, Grafana Loki and Tempo
+- Thought Train (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap)
+  + Feature-rich web page content extraction and knowledge graph service
+  + Search Query grammar, Pulumi-based AWS cloud setup
+  + mobile applications built using Flutter (Android, iOS)
 - BADUC (Bastion+DroneCI+Usher+Consul; also Chef, Gitea, SystemD)
   + CD system for artifact deployment in my home network
   + Uses self-developed Go microservices like Bastion (HTTP server endpoint to trigger deployment), Usher (node agents that execute deployment)
   + Deployment workflow handled via combination of DroneCI (or Semaphore CI) Consul, SystemD and Chef
-  + Proven to myself I can build a system like this, I am slowly moving away from it (to Nomad)
-- Batler (Go, BADUC)
+  + Fully deprecated and replaced with Home Laboratory v2
+- Batler (Go)
   + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM
   + Used as on-prem notification gateway for Synology and all other services
 - NovinarnicaDownload (Scala, Akka, Spray.io, Google OAuth&GMail, Pushbullet)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
+  + Fully deprecated and replaced with Novinarnica v2 which is fully Go
 - Movie Catalog System (Java, Baobab)
   + Catalog program for movie collections for Windows and Linux (SWT, Hibernate, H2)
   + TMDB integration (find-a-movie, posters, IMDB links)
