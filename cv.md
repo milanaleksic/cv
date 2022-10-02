@@ -23,19 +23,19 @@ Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (
 
 - **Serbian** (mother tongue)
 - **English** (fluent)
-- **Dutch** (C1 Effectiveness 1, explained in [Common European Framework of Reference for Languages and NT2 providers](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf))
+- **Dutch** (C1 Effectiveness 1; [explanation link](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf))
 
 </details>
 
 <details><summary><h2>Keywords</h2></summary>
 
-Java, Go, AWS, Python, PostgreSQL, JavaScript
+Java, Go, AWS, Python, PostgreSQL, MySQL
 
 </details>
 
 <details><summary><h2>Experience</h2></summary>
 
-<details><summary><h3>Senior Software Engineer @ SodaData (Belgium)</h3></summary>
+<details><summary><h3>Senior Software Engineer @ Soda (Belgium)</h3></summary>
 
 Place: **Remote/Brussels, Belgium**
 
@@ -43,12 +43,11 @@ Period: **2020-...**
 
 Projects:
 
-- soda.io Cloud/Enterprise Backend engineer
-  + Programming languages: (mostly) Java 8/11/17 and Python 3
-  + Cloud development on AWS using Terraform (ECS, Batch, SQS, RDS MySQL...)
-  + Tasked with backend feature development, guidance and documentation 
-  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud solution in the "early days", handed over to dedicated personnel as we grew
-- Created internal `do.py` tool for various devops/security tasks
+- soda.io Cloud Backend (founding) engineer
+  + Programming languages: (mostly) Java, Python and cloud development on AWS using Terraform
+  + Tasked with backend feature development, guidance and documentation. One of the first engineers and therefore I witnessed most of pivoting, market adaptations, surprising platform usage patterns, product evolution, became MySQL advanced user...
+  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud, handed over to dedicated personnel as we grew; I made various deep analysis tools in Go like timeline diagrams for deadlock analysis, log processing pipelines
+- Created in Python internal `dopy` tool for various devops/security tasks on top of Okta and boto3
 - Broad data sources exposure while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
 
 </details>
