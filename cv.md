@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 02/10/2022
+Last updated: 05/11/2022
 
 ## Personal
 
@@ -45,10 +45,10 @@ Projects:
 
 - soda.io Cloud Backend (founding) engineer
   + Programming languages: (mostly) Java, Python and cloud development on AWS using Terraform
-  + Tasked with backend feature development, guidance and documentation. One of the first engineers and therefore I witnessed most of pivoting, market adaptations, surprising platform usage patterns, product evolution, became MySQL advanced user...
-  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud, handed over to dedicated personnel as we grew; I made various deep analysis tools in Go like timeline diagrams for deadlock analysis, log processing pipelines
+  + Tasked with backend feature development, guidance and documentation. One of the first engineers and therefore I witnessed most of pivoting, market adaptations, surprising platform usage patterns, product evolution, became the company MySQL perf guy...
+  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud (handed over to dedicated personnel as we grew); I made various deep analysis tools in Go like timeline diagrams for deadlock analysis, log processing pipelines
 - Created in Python internal `dopy` tool for various devops/security tasks on top of Okta and boto3
-- Broad data sources exposure while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
+- Broad exposure to data sources while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
 
 </details>
 
@@ -82,9 +82,9 @@ Feature development on new long-term systems and applications in *Hermes* team
 
 Projects:
 
-- *Nozem*: always-up-to-date source ingestion service into core TomTom data layer
+- *Nozem*: always-up-to-date OpenStreetMap ingestion service into core TomTom data layer
   + Kafka, PostgreSQL, Python, Spring Boot, Jenkins
-- *Lego*: automated map features ingestion
+- *Lego*: automated OpenStreetMap features ingestion
   + Kubernetes on Azure Cloud, Python, Java, QGIS Python plugins
 
 </details>
