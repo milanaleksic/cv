@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 05/11/2022
+Last updated: 06/04/2023
 
 ## Personal
 
@@ -22,7 +22,7 @@ Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (
 
 - **Serbian** (mother tongue)
 - **English** (fluent)
-- **Dutch** (C1 Effectiveness 1; [explanation link](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf))
+- **Dutch** ([C1 Effectiveness 1](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf))
 
 </details>
 
@@ -114,82 +114,18 @@ Projects:
   + Go
 
 </details>
+  
+<details><summary><h3>Previous work experience</h3></summary>
+  
+**2014**: Freelance Consultant (remote) @ Gtech UK (_Brussels, Belgium_)
 
-<details><summary><h3>Freelance Consultant</h3></summary>
+**2011-2013**: Software consultant @ Cronos (Belgium) (_Brussels, Belgium_)
+  
+**2009-2011**: Software Engineer II @ Gtech G2 Sports Betting (_Belgrade, Serbia_)
 
-Place: **Remote** (part-time job)
+**2007-2009**: Java Developer @ Arius (_Belgrade, Serbia_)
 
-Period: **2014**
-
-Projects:
-
-- Support migration of einstants Flash to HTML5 (Script#, Grunt, RequireJS, Karma)
-- Various tasks related to new Switzerland Lottery’s online game LotoExpress
-
-</details>
-
-<details><summary><h3>Software consultant @ Cronos (Belgium)</h3></summary>
-
-Place: **Brussels, Belgium**
-
-Period: **2011-2013**
-
-Projects:
-
-- Interwoven TeamSite consultancy in BNP Paribas Investment Partners
-  + Full-stack maintenance of global portal www.bnpparibas-ip.com (Java, Oracle, XSLT, Perl, JavaScript)
-  + Server Synchronization: tool for content synchronization analysis over Solaris systems (Java)
-
-</details>
-
-<details><summary><h3>Software Engineer II @ Gtech G2 Sports Betting</h3></summary>
-
-Place: **Belgrade, Serbia**
-
-Period: **2009 - 2011**
-
-Projects:
-
-- *WARP Framework*
-  + Core engineer (front-end and backend in Script#/C#)
-- Lottery Players’ portals projects
-  + *Chilean* National Lottery ([www.polla.cl](https://www.polla.cl))
-  + *Belgian* National Lottery ([www.e-lotto.be](https://www.e-lotto.be))
-- *DistributeWarpComponent*
-  + Microsoft Visual Studio developer tool for immediate development cycle feedback (C# / Groovy for backend server)
-- *CipDroid*: Android application for internal issue management system
-
-</details>
-
-<details><summary><h3>Software Developer @ Arius (Serbia)</h3></summary>
-
-Place: **Belgrade, Serbia**
-
-Period: **2007-2009**
-
-Projects:
-
-- *TMS* (Terminal Management System)
-  + Evolution of payment transaction system for POS terminals (Java, WebSphere, Oracle)
-- *SMS dispatcher*
-  + Dispatching of bank notifications via SMSC / GSM modem (JMS, Spring, WebSphere 6, Oracle)
-- *MRS* (Mobile Recharge System)
-  + Mobile top-ups Java server transaction application (Java, JPOS Q2, WebSphere)
-  + Offline vouchers project for Nigerian market (Java, C)
-
-</details>
-
-<details><summary><h3>Intern software developer @ ESAProjekt</h3></summary>
-
-Place: **Katowice, Poland**
-
-Period: **2006**
-
-Projects:
-
-- Case study of iOmniscient video recognition software application for parking lots (C#)
-
-</details>
+**2006**: Intern software developer @ ESAProjekt (_Katowice, Poland_)
 
 </details>
 
@@ -232,13 +168,5 @@ Projects:
 
 - (BeScala) [Introducing a reactive Scala-Akka based system in a Java centric company](http://www.meetup.com/BeScala/events/220967046/)
   + with Jeroen Verellen, 2015
-
-### Courses
-
-- Coursera, Functional Programming in Scala (with Martin Odersky) (2012)
-- Coursera, Algorithms 1 & Algorithms 2 (with Robert Sedgewick) (2013)
-- Coursera, Pattern Oriented Software Architecture (with Douglas Schmidt) (2013)
-- 10gen, MongoDB for Java Developers (M101J) (2013)
-- Coursera, Principles of Reactive Programming (with Odersky, Meijer & Kuhn) (2014)
 
 </details>
