@@ -142,11 +142,10 @@ Projects:
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
 - Home Laboratory
-  + Cluster of 7 hybrid (aarch64, amd64, on premises and on cloud) servers and 3 switches
-  + Ansible for bootstrapping, Nomad/Consul for container scheduling, Gitea as git repo
+  + Hybrid cluster (aarch64/amd64, on premises/cloud) connected using Tailscale
+  + Ansible for bootstrapping, Nomad/Consul for container scheduling, Gitea as VCS & CI/CD platform
   + Monitoring via Grafana, InfluxDB, Grafana Loki and Tempo
-  + replaced self-made deployment platform BADUC (Bastion+DroneCI+Usher+Consul around Chef, Gitea, SystemD)
-- Thought Train (Go, PostgreSQL, ANTLR, Vue.js, Svelte, Flutter, Bootstrap)
+- Thought Train (Go, PostgreSQL, ANTLR, NATS, Vue.js, Svelte, Flutter, Bootstrap)
   + Feature-rich web page content extraction & book annotation distributed service
   + Search Query grammar, Pulumi-based AWS cloud setup
   + mobile applications (Android, iOS) and Chrome Extension
@@ -155,7 +154,6 @@ Projects:
   + Used as on-prem notification gateway for Synology and all other services
 - Novinarnica (Go, Google OAuth, Batler)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
-  + deprecated NovinarnicaDownload (Scala, Akka, Spray.io, Pushbullet)
 
 </details>
 
