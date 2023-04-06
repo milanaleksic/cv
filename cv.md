@@ -45,8 +45,10 @@ Projects:
 - soda.io Cloud Backend (founding) engineer
   + Programming languages: (mostly) Java, Python and cloud development on AWS using Terraform
   + Tasked with backend feature development, guidance and documentation. One of the first engineers and therefore I witnessed most of pivoting, market adaptations, surprising platform usage patterns, product evolution, became the company MySQL perf guy...
-  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud (handed over to dedicated personnel as we grew); I made various deep analysis tools in Go like timeline diagrams for deadlock analysis, log processing pipelines
-- Created in Python internal `dopy` tool for various devops/security tasks on top of Okta and boto3
+  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud (handed over to dedicated personnel as we grew)
+- Tool maker role: 
+  + deep incident analysis tools (Golang) using profile tracer for deadlock analysis, log processing pipelines, SQLite exporters
+  + internal `dopy` tool (Python) for various devops/security tasks on top of Okta and boto3
 - Broad exposure to data sources while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
 
 </details>
@@ -201,13 +203,6 @@ Projects:
   + Reusable Makefile files which allow cross CI/CD Go compilation with many useful tools
 - [Igor](https://github.com/milanaleksic/igor) (Go Lambda, Vue.js, Google+, CloudFront, Cognito, DynamoDB)
   + “I am away” Flowdock bot, deployed via Semaphore.ci + CloudFormation
-- [Clici for Jenkins](https://github.com/milanaleksic/clici) (Go)
-  + Customizable Jenkins ncurses-like command line tool to follow Jenkins jobs
-- [Baobab](https://milanaleksic.github.io/baobab/) (Java)
-  + JSON-to-SWT mapping and annotation-driven MVC GUI framework
-- [MtsCheckAccount](https://github.com/milanaleksic/mtscheckaccount) (Java, GNU RxTx)
-  + GUI application for executing USSD via AT commands on USB 3G modems
-  + Supporting modems ZTE MF622 and Huawei E1550 on Windows and Linux
 
 </details>
 
@@ -215,31 +210,19 @@ Projects:
 
 - Home Laboratory
   + Cluster of 7 hybrid (aarch64, amd64, on premises and on cloud) servers and 3 switches
-  + Ansible for bootstrapping, Nomad/Consul for job scheduling, Gitea as git repo
+  + Ansible for bootstrapping, Nomad/Consul for container scheduling, Gitea as git repo
   + Monitoring via Grafana, InfluxDB, Grafana Loki and Tempo
-- Thought Train (Go, PostgreSQL, ANTLR, Vue.js, Bootstrap)
-  + Feature-rich web page content extraction and knowledge graph service
+  + replaced self-made deployment platform BADUC (Bastion+DroneCI+Usher+Consul around Chef, Gitea, SystemD)
+- Thought Train (Go, PostgreSQL, ANTLR, Vue.js, Svelte, Flutter, Bootstrap)
+  + Feature-rich web page content extraction & book annotation distributed service
   + Search Query grammar, Pulumi-based AWS cloud setup
-  + mobile applications built using Flutter (Android, iOS)
-- BADUC (Bastion+DroneCI+Usher+Consul; also Chef, Gitea, SystemD)
-  + CD system for artifact deployment in my home network
-  + Uses self-developed Go microservices like Bastion (HTTP server endpoint to trigger deployment), Usher (node agents that execute deployment)
-  + Deployment workflow handled via combination of DroneCI (or Semaphore CI) Consul, SystemD and Chef
-  + Fully deprecated and replaced with Home Laboratory v2
+  + mobile applications (Android, iOS) and Chrome Extension
 - Batler (Go)
   + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM
   + Used as on-prem notification gateway for Synology and all other services
-- NovinarnicaDownload (Scala, Akka, Spray.io, Google OAuth&GMail, Pushbullet)
+- Novinarnica (Go, Google OAuth, Batler)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
-  + Fully deprecated and replaced with Novinarnica v2 which is fully Go
-- Movie Catalog System (Java, Baobab)
-  + Catalog program for movie collections for Windows and Linux (SWT, Hibernate, H2)
-  + TMDB integration (find-a-movie, posters, IMDB links)
-  + Custom SWT components for UX, multi-master optimistic replication via vector clocks,
-  + Versioned database alteration and restoration from backup
-- Collaborative Utilities Concept (Java, Baobab)
-  + Platform for integration of numerous (thirteen) tools (SWT, Smack, JMF...)
-  + Including Jabber bot, scheduled SQL firing, ISO8583 message parser etc
+  + deprecated NovinarnicaDownload (Scala, Akka, Spray.io, Pushbullet)
 
 </details>
 
@@ -257,22 +240,5 @@ Projects:
 - Coursera, Pattern Oriented Software Architecture (with Douglas Schmidt) (2013)
 - 10gen, MongoDB for Java Developers (M101J) (2013)
 - Coursera, Principles of Reactive Programming (with Odersky, Meijer & Kuhn) (2014)
-
-### Awards
-
-- [Gtech Silver Building Excellence Award (2009)](https://aleksic.dev/public/cv-app3)
-- [Gtech Gold Building Excellence Award (2010)](https://aleksic.dev/public/cv-app4)
-
-### Certifications
-
-- Oracle Certified Professional, Java Programmer 6 (OCPJP 6) (2011)
-- Oracle Certified Professional, Java EE 5 Web Component Developer (OCPWCD 5) (2011)
-- Oracle Certified Expert, Java EE 6 Java Persistence API Developer (OCEJPA 6) (2012)
-
-### Recommendations
-
-- [Recommendation by prof. Igor Tartalja (Belgrade ETF)](https://aleksic.dev/public/cv-app1)
-- [Recommendation by Rafal Dunal (internship in Poland)](https://aleksic.dev/public/cv-app2)
-- [Additional recommendations on my LinkedIn profile](https://www.linkedin.com/in/milanaleksic/)
 
 </details>
