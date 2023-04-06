@@ -99,19 +99,16 @@ Period: **2013-2017**
 Projects:
 
 - *Basware Network Portal*: Full-stack development role on online and internal services
-  + Play2, Scala, Java8, MongoDB, Spring, Chef, Go
+  + Tech stack: Play2, Scala, Java8, MongoDB, Spring, Chef, Go
   + Rewritten core validation business rules implementation (Java)
 - *Basware e-Archiving*: DevOps lead-in-charge and one of lead developers
-  + CloudFormation, Jenkins, Bash, AWS CLI
-  + Java Lambda functions, API GW, S3, DynamoDB, SQS, Splunk
-- *Norsu*: Introduced cross-systems end-to-end testing
-  + Groovy, Cucumber, Gradle
-- Business Metrics dashboards
-  + Akka (Scala) and Dashing.io (Ruby)
+  + Tech stack: CloudFormation, Jenkins, Bash, AWS CLI
+  + Cloud stack: Java Lambda functions, API GW, S3, DynamoDB, SQS, Splunk
+- *Norsu* (Groovy, Cucumber, Gradle): Cross-systems end-to-end testing
+- Business Metrics dashboards (Akka and Dashing.io)
 - Migration of legacy Resin applications to Tomcat cluster
-  + Oracle, JSP, RMI, Ant, Tomcat, Apache2
-- *HAL9000*: Flowdock bot (CI/CD automation helper for 100+ developers)
-  + Go
+  + Oracle DB, JSP, RMI, Ant, Tomcat, Apache2
+- *HAL9000* (Golang): Flowdock bot (CI/CD automation helper for 100+ developers)
 
 </details>
   
