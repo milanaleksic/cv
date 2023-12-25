@@ -1,6 +1,6 @@
 # CV
 
-This is a Markdown version of my CV. I got tired of updating a Google Docs / Word document.
+This is a Markdown version of my CV. I got tired of updating a Google Docs / Word document. Any change triggers deployment into https://aleksic.dev website without any red tape.
 
 What it does:
 
