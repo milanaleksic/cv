@@ -128,6 +128,7 @@ Projects:
 
 <details><summary><h2>Selected open source projects</h2></summary>
 
+- [Advent of Code 2023](https://github.com/milanaleksic/adventofcode2023) (Zig)
 - [Github Helper CLI](https://github.com/milanaleksic/ghh) (Rust, Github API)
   + epic issues dependency graph handling, branch names and other "my flow" helpers
 - [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Cloudflare Pages)
