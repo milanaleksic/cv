@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 25/12/2023
+Last updated: 02/07/2024
 
 ## Personal
 
@@ -23,6 +23,7 @@ Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (
 - **Serbian** (mother tongue)
 - **English** (fluent)
 - **Dutch** ([C1 Effectiveness 1](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf))
+- **French** (A2, basic level)
 
 </details>
 
@@ -45,10 +46,10 @@ Projects:
 - soda.io Cloud Backend (founding) engineer
   + Programming languages: (mostly) Java, Python and cloud development on AWS using Terraform
   + Tasked with backend feature development, guidance and documentation. One of the first ("founding") engineers and therefore I witnessed all the pivoting, market adaptations, surprising platform usage patterns, product evolution, became the company MySQL perf guy, guided or advised all the Soda Cloud development efforts...
-  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud (handed over to dedicated personnel as we grew)
+  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud
 - Tool maker role: 
-  + deep incident analysis tool using custom dynamically created trace profiles, (Go via Datadog API, SQLite, Perfetto)
-  + internal `dopy` tool (Python) for various admin tasks on top of Okta SSO, boto3 and Soda Cloud private OpenAPI, including feature flip management, admin API back-channel, environment setup, etc
+  + deep incident analysis tool using custom dynamically created trace profiles - `datadog-exporter` (Go, Datadog API, SQLite, Perfetto)
+  + internal tool for various admin tasks, including feature flip management, admin API back-channel, environment setup, DB dynamic password feneration, framework for complex migrations, etc - `dopy` (Python3, Okta SSO+MFA, boto3) 
 - Broad exposure to data sources while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
 
 </details>
@@ -162,7 +163,6 @@ Projects:
 
 ### Public talks
 
-- (BeScala) [Introducing a reactive Scala-Akka based system in a Java centric company](http://www.meetup.com/BeScala/events/220967046/)
-  + with Jeroen Verellen, 2015
+- (BeScala) [Introducing a reactive Scala-Akka based system in a Java centric company](http://www.meetup.com/BeScala/events/220967046/) with Jeroen Verellen, 2015
 
 </details>
