@@ -144,16 +144,15 @@ Projects:
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
 - Home Laboratory
-  + Hybrid cluster (aarch64/amd64, on premises/cloud) connected using Tailscale
-  + Ansible for bootstrapping, Nomad/Consul for container scheduling, Gitea as VCS & CI/CD platform
+  + Hybrid cluster (aarch64/amd64 debian/ubuntu, home/Oracle cloud) connected using Tailscale. NAS included
+  + Infra as code: Ansible for foundational setup of bare new nodes, Nomad/Consul for container scheduling (25+ services like Gitea, Minecraft, yarr, etc.)
   + Monitoring via Grafana, InfluxDB, Grafana Loki and Tempo
-- Thought Train (Go, PostgreSQL, ANTLR, NATS, Vue.js, Svelte, Flutter, Bootstrap)
+- Thought Train (Go, PostgreSQL, ANTLR, NATS, Vue.js / htmx, Svelte, Flutter, Bootstrap)
   + Feature-rich web page content extraction & book annotation distributed service
   + Search Query grammar, Pulumi-based AWS cloud setup
   + mobile applications (Android, iOS) and Chrome Extension
 - Batler (Go)
-  + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM
-  + Used as on-prem notification gateway for Synology and all other services
+  + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM and main notification pipeline
 - Novinarnica (Go, Google OAuth, Batler)
   + Content crawler and CBR packager of magazines from www.novinarnica.net
 
