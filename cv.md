@@ -46,7 +46,8 @@ Projects:
 - soda.io Cloud Backend (founding) engineer
   + Programming languages: (mostly) Java, Python and cloud development on AWS using Terraform
   + Tasked with backend feature development, guidance and documentation. One of the first ("founding") engineers and therefore I witnessed all the pivoting, market adaptations, surprising platform usage patterns, product evolution, became the company MySQL perf guy, guided or advised all the Soda Cloud development efforts...
-  + Deep observability setup via DataDog, incident management and other operational concerns of the Soda Cloud
+  + Helped the company grow 100x in customers and revenue over 5 years without high-profile incidents or downtime of the Soda Cloud product
+  + Beyond product and engineering impact, also introduced discipline in performance analysis and monitoring via DataDog, incident management and other operational concerns of the Soda Cloud
 - Tool maker role: 
   + deep incident analysis tool using custom dynamically created trace profiles - `datadog-exporter` (Go, Datadog API, SQLite, Perfetto)
   + internal tool for various admin tasks, including feature flip management, admin API back-channel, environment setup, DB dynamic password feneration, framework for complex migrations, etc - `dopy` (Python3, Okta SSO+MFA, boto3) 
