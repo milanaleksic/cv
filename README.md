@@ -4,8 +4,8 @@ This is a Markdown version of my CV. I got tired of updating a Google Docs / Wor
 
 What it does:
 
-1. uses `pandoc` to generate HTML;
-1. triggers deployment to web site on commit;
+1. uses `pandoc` to generate HTML and PDF
+1. triggers deployment to web site on commit via GH workflow
 
 ## Mac
 
