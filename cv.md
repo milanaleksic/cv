@@ -145,9 +145,9 @@ Projects:
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
 - Home Laboratory
-  + Hybrid cluster (aarch64/amd64 debian/ubuntu, home/Oracle cloud) connected using Tailscale. NAS included
-  + Infra as code: Ansible for foundational setup of bare new nodes, Nomad/Consul for container scheduling (25+ services like Gitea, Minecraft, yarr, etc.)
-  + Monitoring via Grafana, InfluxDB, Grafana Loki and Tempo
+  + Hybrid cluster (aarch64/amd64, debian/ubuntu, RPis/NUC Proxmox, home/Oracle Cloud) connected using Tailscale, and with a Synology NAS.
+  + Infra as code: Ansible for foundational setup of bare new nodes, HashiCorp Nomad+Consul for container scheduling (40+ services like Gitea, Minecraft, yarr, etc.)
+  + Monitoring via Grafana, InfluxDB, Loki and Tempo
 - Thought Train (Go, PostgreSQL, ANTLR, NATS, Vue.js / htmx, Svelte, Flutter, Bootstrap)
   + Feature-rich web page content extraction & book annotation distributed service
   + Search Query grammar, Pulumi-based AWS cloud setup
