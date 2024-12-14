@@ -6,7 +6,7 @@ Last updated: 18/11/2024
 
 Born on 21/12/1983, Smederevo (Serbia), living in Koekelberg (Belgium) since 2011. I have dual citizenship of Belgium and Serbia.
 
-My website is [aleksic.dev](https://aleksic.dev), email is [milan@aleksic.dev](mailto:milan@aleksic.dev) and Twitter account is: [milanaleksic](https://twitter.com/milanaleksic).
+My website is [aleksic.dev](https://aleksic.dev), email is [milan@aleksic.dev](mailto:milan@aleksic.dev) and Bluesky account is: [@aleksic.dev](https://bsky.app/profile/aleksic.dev).
 I am fairly active on [github.com/milanaleksic](https://github.com/milanaleksic).
 I also have a [LinkedIn account](https://www.linkedin.com/in/milanaleksic) if you'd like to connect with me.
 
