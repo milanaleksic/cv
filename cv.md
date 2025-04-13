@@ -10,20 +10,11 @@ My website is [aleksic.dev](https://aleksic.dev), email is [milan@aleksic.dev](m
 I am fairly active on [github.com/milanaleksic](https://github.com/milanaleksic).
 I also have a [LinkedIn account](https://www.linkedin.com/in/milanaleksic) if you'd like to connect with me.
 
-<details><summary><h2>Education</h2></summary>
+<details><summary><h2>Education & spoken languages</h2></summary>
 
-Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (Serbia), Faculty of Electrical Engineering (ETF)
+Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (Serbia), Faculty of Electrical Engineering (ETF). “NARIC – Vlaanderen” [recognized my diploma as M.Sc.](https://aleksic.dev/public/cv-nostrification).
 
-“NARIC – Vlaanderen” [recognized diploma as M.Sc.](https://aleksic.dev/public/cv-nostrification)
-
-</details>
-
-<details><summary><h2>Spoken languages</h2></summary>
-
-- **Serbian** (mother tongue)
-- **English** (fluent)
-- **Dutch** ([C1 Effectiveness 1](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf))
-- **French** (A2, basic level)
+I can speak in the following languages: **Serbian** (mother tongue), **English** (fluent), **Dutch** ([C1 Effectiveness 1](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf)), **French** (A2, basic level)
 
 </details>
 
@@ -43,13 +34,12 @@ Period: **2020-...**
 
 Projects:
 
-- soda.io Cloud Backend founding engineer (from late spring 2025 member of the platform "Foundational" team)
+- soda.io Cloud Backend founding engineer (since late spring 2025 member of the platform "Foundational" team)
   + Programming languages: (mostly) Java, Python, Go
-  + I was one of the first ("founding") engineers so I witnessed all the product pivots, market adaptations & surprising platform usage patterns; I became the company backend&MySQL perf guy and introduced discipline in performance analysis and monitoring
-  + Helped the company grow 100x in customers and revenue over 5 years without high-profile incidents or downtime of the Soda Cloud product
+  + I was one of the first ("founding") engineers so I witnessed all the product pivots, market adaptations & surprising platform usage patterns; I became the company backend&MySQL perf guy and introduced discipline in performance analysis and monitoring which helped the company grow 100x in customers and revenue over 5 years without high-profile incidents or downtime of the Soda Cloud product
 - Tool maker role: 
-  + deep incident analysis tool using custom dynamically created trace profiles - `datadog-exporter` (Go, Datadog API, SQLite, Perfetto)
-  + internal tool for various admin tasks, including feature flip management, admin API back-channel, online reconfiguration of live systems, etc - `dopy` (Python3, Okta SSO+MFA, boto3); superceeded with `dogo` (rewrite in Go) and merged with `datadog-exporter`
+  +  - `datadog-exporter` (Go, Datadog API, SQLite, Perfetto)
+  + internal tool for various admin tasks, including feature flip management, online reconfiguration, deep incident analysis - v1 in Python, v2 in Go (backed by: Soda backend/AWS/Okta/Datadog APIs, SQLite, Perfetto)
 - Broad exposure to data sources while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
 
 </details>
@@ -114,6 +104,8 @@ Projects:
 </details>
   
 <details><summary><h3>Previous work experience</h3></summary>
+
+<p><footer>Only the last 10 years are listed in details - let's chat if you want more details about things in this list.</footer></p>
   
 **2014**: Freelance Consultant (remote) @ Gtech UK (_Brussels, Belgium_)
 
