@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 18/11/2024
+Last updated: 13/04/2025
 
 ## Personal
 
@@ -43,14 +43,13 @@ Period: **2020-...**
 
 Projects:
 
-- soda.io Cloud Backend (founding) engineer
-  + Programming languages: (mostly) Java, Python and cloud development on AWS using Terraform
-  + Tasked with backend feature development, guidance and documentation. One of the first ("founding") engineers and therefore I witnessed all the pivoting, market adaptations, surprising platform usage patterns, product evolution, became the company MySQL perf guy, guided or advised all the Soda Cloud development efforts...
+- soda.io Cloud Backend founding engineer (from late spring 2025 member of the platform "Foundational" team)
+  + Programming languages: (mostly) Java, Python, Go
+  + I was one of the first ("founding") engineers so I witnessed all the product pivots, market adaptations & surprising platform usage patterns; I became the company backend&MySQL perf guy and introduced discipline in performance analysis and monitoring
   + Helped the company grow 100x in customers and revenue over 5 years without high-profile incidents or downtime of the Soda Cloud product
-  + Beyond product and engineering impact, also introduced discipline in performance analysis and monitoring via DataDog, incident management and other operational concerns of the Soda Cloud
 - Tool maker role: 
   + deep incident analysis tool using custom dynamically created trace profiles - `datadog-exporter` (Go, Datadog API, SQLite, Perfetto)
-  + internal tool for various admin tasks, including feature flip management, admin API back-channel, environment setup, DB dynamic password feneration, framework for complex migrations, etc - `dopy` (Python3, Okta SSO+MFA, boto3) 
+  + internal tool for various admin tasks, including feature flip management, admin API back-channel, online reconfiguration of live systems, etc - `dopy` (Python3, Okta SSO+MFA, boto3); superceeded with `dogo` (rewrite in Go) and merged with `datadog-exporter`
 - Broad exposure to data sources while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
 
 </details>
