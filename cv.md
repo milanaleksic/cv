@@ -36,8 +36,8 @@ Projects:
 
 - soda.io Cloud Backend founding engineer (since late spring 2025 member of the platform "Foundational" team)
   + Programming languages: (mostly) Java, Python, Go
-  + I was one of the first ("founding") engineers so I witnessed all the product pivots, market adaptations & surprising platform usage patterns; I became the company backend&MySQL perf guy and introduced discipline in performance analysis and monitoring which helped the company grow 100x in customers and revenue over 5 years without high-profile incidents or downtime of the Soda Cloud product
-- I made an internal tool for various admin tasks: feature flip management, backend runtime reconfiguration, deep incident analysis - v1 in Python, v2 in Go (Soda Cloud backend/AWS/Okta/Datadog APIs, SQLite, Perfetto)
+  + I was one of the first ("founding") engineers so I witnessed all the data quality product pivots & surprising platform usage patterns; I became the company backend & MySQL perf guy and introduced discipline in performance analysis and monitoring which helped the company grow 100x in customers and revenue over 5 years without high-profile incidents or downtime of the Soda Cloud product
+- I made an internal tool (`dogo`) for DevOps tasks: feature flip management, backend runtime reconfiguration, deep incident analysis, prod environment access authz - v1 in Python, v2 in Go (using Soda Cloud backend/AWS/Okta/Datadog APIs, SQLite, Perfetto)
 - Broad exposure to data sources while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
 
 </details>
