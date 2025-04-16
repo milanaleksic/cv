@@ -75,7 +75,7 @@ Projects:
 
 </details>
   
-<details><summary><h3>[2006-213] Previous work experience</h3></summary>
+<details><summary><h3>[2006-2013] Previous work experience</h3></summary>
 
 <p><footer>Reach out for a chat if you want more details about things in this list.</footer></p>
   
