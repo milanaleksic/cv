@@ -28,7 +28,7 @@ Java, Go, AWS, Python, PostgreSQL, MySQL
 
 <details><summary><h3>[2020-...] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
-My role was soda.io Cloud Backend founding engineer (since late spring 2025 also a member of the platform "Foundational" team). Programming languages I used were Java, Python and Go.
+My role was soda.io Cloud Backend founding engineer (since late spring 2025 also a member of the Foundation team). Programming languages I used were Java, Python and Go.
 
 I became the company backend guy & MySQL perf guy and helped the company grow 100x in customers and revenue over 5 years without high-profile incidents of the Soda Cloud product. I had a multi-hat impact on org through domain, infra and system design. Maintainer of Soda k8s agent, Vault Decrypter, warehouse source preparation, public API, OpenAPI generator, custom DI/DB framework and other complex features and mini-services.
 
