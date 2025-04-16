@@ -89,9 +89,9 @@ Projects:
 
 </details>
   
-<details><summary><h3>Previous work experience</h3></summary>
+<details><summary><h3>[2006-213] Previous work experience</h3></summary>
 
-<p><footer>Only the last 10 years are listed in details - let's chat if you want more details about things in this list.</footer></p>
+<p><footer>Reach out for a chat if you want more details about things in this list.</footer></p>
   
 **2014**: Freelance Consultant (remote) @ Gtech UK (_Brussels, Belgium_)
 
