@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 13/04/2025
+Last updated: 16/04/2025
 
 ## Personal
 
@@ -38,14 +38,10 @@ I made an internal platform CLI tool (`dopy` / `dogo`) for many painful DevOps a
 
 <details><summary><h3>[2017-2020] Expert Software Engineer @ TomTom (Ghent, Belgium)</h3></summary>
 
-#### CCE Team
-
-Feature development and maintenance of various core systems and applications in *MPU Core Coverage Creation & Extension* team
-
-Projects:
+#### MPU Core Coverage Creation & Extension Team
 
 - *MLF library*: authored code-generated Java wrapper around GDAL OpenFileGDB (later extended to PostGIS and GeoPackage).
-  + Custom ANTLR grammar for extended validation, Python/Markdown doc generator
+  + Custom ANTLR grammar for extended validation and Python/Markdown doc generator
 - *Sinatra*: Led migration of a complex process into AWS for GIS source data digestion
   + PostgreSQL RDS, Spring Boot 2, SQS, ECS, Terraform, Vue.js
 - *Pupin*: created machine learning cloud service for data classification (plural junctions problem)
@@ -53,19 +49,11 @@ Projects:
   + Online+Batch prediction: Terraform / AWS ECS, Spring Boot 2, XGBoost, REST
 - *Dumbo*: migration of internal heavily used batch processing tool into the cloud
   + AWS Batch, ECS, PostgreSQL, S3, X-Ray; Spring Boot 2, Terraform, Python, Jenkins
-- *Excelsior*: process orchestration service
-  + [States Language implementation](https://states-language.net/spec.html) (spec only), ECS+Lambda, Java 11, Python 3
 
 #### Hermes team
 
-Feature development on new long-term systems and applications in *Hermes* team
-
-Projects:
-
-- *Nozem*: always-up-to-date OpenStreetMap ingestion service into core TomTom data layer
-  + Kafka, PostgreSQL, Python, Spring Boot, Jenkins
-- *Lego*: automated OpenStreetMap features ingestion
-  + Kubernetes on Azure Cloud, Python, Java, QGIS Python plugins
+- *Nozem*: always-up-to-date OpenStreetMap ingestion service into core TomTom data layer: Kafka, PostgreSQL, Python, Spring Boot, Jenkins
+- *Lego*: automated OpenStreetMap features ingestion: k8s on Azure Cloud, Python, Java, QGIS Python plugins
 
 </details>
 
