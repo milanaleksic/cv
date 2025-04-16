@@ -24,7 +24,7 @@ Java, Go, AWS, Python, PostgreSQL, MySQL
 
 </details>
 
-<details><summary><h2>Experience</h2></summary>
+<details><summary><h2>Work experience</h2></summary>
 
 <details><summary><h3>[2020-...] Senior Software Engineer @ Soda (Brussels, Belgium)</h3></summary>
 
@@ -113,10 +113,10 @@ Projects:
 
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
-- Home Laboratory: a hybrid cluster (arm/amd, RPis/NUC Proxmox, home/Oracle Cloud) connected using Tailscale, and with a Synology NAS. Uses Ansible for foundational setup of bare new nodes, HashiCorp Nomad+Consul for container scheduling (40+ services like Gitea, Minecraft, yarr, etc.). Slowly migrated to k3s. Monitoring via Grafana, InfluxDB, Loki and Tempo
-- Thought Train (Go, PostgreSQL, NATS, htmx) main side project - a feature-rich web page content extraction, note taking & book annotation distributed service, using a ANTLR Search Query grammar, Pulumi AWS and having also mobile applications (Android, iOS, using Flutter) and a Chrome Extension (Svelte)
-- Batler (Go): my Telegram bot I use for homelab automation tasks and the main notification pipeline
-- Novinarnica (Go, Google OAuth, Batler): content crawler and CBR packager of magazines
+- Home Laboratory: a hybrid cluster (arm/amd, RPis/NUC Proxmox, home/Oracle Cloud) connected using Tailscale, and with a Synology NAS. Uses Ansible for foundational setup and HashiCorp Nomad for container scheduling (40+ services like Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and InfluxDB. Slowly migrated to k3s.
+- Thought Train (Go, PostgreSQL, NATS, htmx) my main side project: a feature-rich web page content extraction, note taking & book annotation distributed service; utlizes an ANTLR Search Query grammar, Pulumi AWS and with dedicated mobile applications (Android, iOS, using Flutter) and a Chrome Extension (Svelte)
+- Batler (Go): personal Telegram bot I use for homelab automation tasks and as the main notification pipeline
+- Novinarnica (Go): content crawler and CBR packager of magazines
 
 </details>
 
