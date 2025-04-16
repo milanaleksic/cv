@@ -26,7 +26,7 @@ Java, Go, AWS, Python, PostgreSQL, MySQL
 
 <details><summary><h2>Experience</h2></summary>
 
-<details><summary><h3>2020-... Senior Software Engineer @ Soda (Brussels, Belgium)</h3></summary>
+<details><summary><h3>[2020-...] Senior Software Engineer @ Soda (Brussels, Belgium)</h3></summary>
 
 soda.io Cloud Backend founding engineer (since late spring 2025 member of the platform "Foundational" team)
   - Programming languages: (mostly) Java, Python, Go
