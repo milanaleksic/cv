@@ -105,9 +105,9 @@ Projects:
 
 <details><summary><h2>Selected open source projects</h2></summary>
 
-- [Advent of Code 2023](https://github.com/milanaleksic/adventofcode2023) (Zig)
-- [Personal Web site](https://github.com/milanaleksic/aleksic.dev) (Hugo, Cloudflare Pages)
-- [Advent of Code 2018](https://github.com/milanaleksic/adventofcode2018) (Go) 
+- Advent of Code 2023: [https://github.com/milanaleksic/adventofcode2023](https://github.com/milanaleksic/adventofcode2023) (Zig)
+- Personal Web site: [https://github.com/milanaleksic/aleksic.dev](https://github.com/milanaleksic/aleksic.dev) (Hugo, Cloudflare Pages)
+- Advent of Code 2018: [https://github.com/milanaleksic/adventofcode2018](https://github.com/milanaleksic/adventofcode2018) (Go) 
 
 </details>
 
