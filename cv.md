@@ -106,38 +106,17 @@ Projects:
 <details><summary><h2>Selected open source projects</h2></summary>
 
 - [Advent of Code 2023](https://github.com/milanaleksic/adventofcode2023) (Zig)
-- [Github Helper CLI](https://github.com/milanaleksic/ghh) (Rust, Github API)
-  + epic issues dependency graph handling, branch names and other "my flow" helpers
-- [Personal Web site](https://github.com/milanaleksic/man-website) (Hugo, Cloudflare Pages)
-- [Advent of Code 2018](https://github.com/milanaleksic/adventofcode2018) (Go)
-- [gomakefiles](https://github.com/milanaleksic/gomakefiles) (Makefile, Bash)
-  + Reusable Makefile files which allow cross CI/CD Go compilation with many useful tools
-- [Igor](https://github.com/milanaleksic/igor) (Go Lambda, Vue.js, Google+, CloudFront, Cognito, DynamoDB)
-  + “I am away” Flowdock bot, deployed via Semaphore.ci + CloudFormation
+- [Personal Web site](https://github.com/milanaleksic/aleksic.dev) (Hugo, Cloudflare Pages)
+- [Advent of Code 2018](https://github.com/milanaleksic/adventofcode2018) (Go) 
 
 </details>
 
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
-- Home Laboratory
-  + Hybrid cluster (aarch64/amd64, debian/ubuntu, RPis/NUC Proxmox, home/Oracle Cloud) connected using Tailscale, and with a Synology NAS.
-  + Infra as code: Ansible for foundational setup of bare new nodes, HashiCorp Nomad+Consul for container scheduling (40+ services like Gitea, Minecraft, yarr, etc.)
-  + Monitoring via Grafana, InfluxDB, Loki and Tempo
-- Thought Train (Go, PostgreSQL, ANTLR, NATS, Vue.js / htmx, Svelte, Flutter, Bootstrap)
-  + Feature-rich web page content extraction & book annotation distributed service
-  + Search Query grammar, Pulumi-based AWS cloud setup
-  + mobile applications (Android, iOS) and Chrome Extension
-- Batler (Go)
-  + Telegram bot I use for home automation tasks like turning on/off my workhorse laptop, Windows VM and main notification pipeline
-- Novinarnica (Go, Google OAuth, Batler)
-  + Content crawler and CBR packager of magazines from www.novinarnica.net
+- Home Laboratory: a hybrid cluster (arm/amd, RPis/NUC Proxmox, home/Oracle Cloud) connected using Tailscale, and with a Synology NAS. Uses Ansible for foundational setup of bare new nodes, HashiCorp Nomad+Consul for container scheduling (40+ services like Gitea, Minecraft, yarr, etc.). Slowly migrated to k3s. Monitoring via Grafana, InfluxDB, Loki and Tempo
+- Thought Train (Go, PostgreSQL, NATS, htmx) main side project - a feature-rich web page content extraction, note taking & book annotation distributed service, using a ANTLR Search Query grammar, Pulumi AWS and having also mobile applications (Android, iOS, using Flutter) and a Chrome Extension (Svelte)
+- Batler (Go): my Telegram bot I use for homelab automation tasks and the main notification pipeline
+- Novinarnica (Go, Google OAuth, Batler): content crawler and CBR packager of magazines
 
 </details>
 
-<details><summary><h2>Miscellaneous</h2></summary>
-
-### Public talks
-
-- (BeScala) [Introducing a reactive Scala-Akka based system in a Java centric company](http://www.meetup.com/BeScala/events/220967046/) with Jeroen Verellen, 2015
-
-</details>
