@@ -26,27 +26,19 @@ Java, Go, AWS, Python, PostgreSQL, MySQL
 
 <details><summary><h2>Experience</h2></summary>
 
-<details><summary><h3>Senior Software Engineer @ Soda (Belgium)</h3></summary>
+<details><summary><h3>2020-... Senior Software Engineer @ Soda (Brussels, Belgium)</h3></summary>
 
-Place: **Remote/Brussels, Belgium**
+soda.io Cloud Backend founding engineer (since late spring 2025 member of the platform "Foundational" team)
+  - Programming languages: (mostly) Java, Python, Go
+  - I was one of the first ("founding") engineers so I witnessed all the data quality product pivots & surprising platform usage patterns; I became the company backend & MySQL perf guy and introduced discipline in performance analysis and monitoring which helped the company grow 100x in customers and revenue over 5 years without high-profile incidents or downtime of the Soda Cloud product
 
-Period: **2020-...**
+I made an internal tool (`dogo`) for DevOps tasks: feature flip management, backend runtime reconfiguration, deep incident analysis, prod environment access authz - v1 in Python, v2 in Go (using Soda Cloud backend/AWS/Okta/Datadog APIs, SQLite, Perfetto)
 
-Projects:
-
-- soda.io Cloud Backend founding engineer (since late spring 2025 member of the platform "Foundational" team)
-  + Programming languages: (mostly) Java, Python, Go
-  + I was one of the first ("founding") engineers so I witnessed all the data quality product pivots & surprising platform usage patterns; I became the company backend & MySQL perf guy and introduced discipline in performance analysis and monitoring which helped the company grow 100x in customers and revenue over 5 years without high-profile incidents or downtime of the Soda Cloud product
-- I made an internal tool (`dogo`) for DevOps tasks: feature flip management, backend runtime reconfiguration, deep incident analysis, prod environment access authz - v1 in Python, v2 in Go (using Soda Cloud backend/AWS/Okta/Datadog APIs, SQLite, Perfetto)
-- Broad exposure to data sources while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
+Broad exposure to data sources while helping bootstrap [Soda SQL](https://github.com/sodadata/soda-sql): PostgreSQL, Redshift, Athena, Spark
 
 </details>
 
-<details><summary><h3>Expert Software Engineer @ TomTom (Belgium)</h3></summary>
-
-Place: **Ghent, Belgium**
-
-Period: **2017-2020**
+<details><summary><h3>[2017-2020] Expert Software Engineer @ TomTom (Ghent, Belgium)</h3></summary>
 
 #### CCE Team
 
@@ -79,11 +71,7 @@ Projects:
 
 </details>
 
-<details><summary><h3>{Senior, Lead} Software Engineer @ Basware (Belgium)</h3></summary>
-
-Place: **Aalst, Belgium**
-
-Period: **2013-2017**
+<details><summary><h3>[2013-2017] {Senior, Lead} Software Engineer @ Basware (Aalst, Belgium)</h3></summary>
 
 Projects:
 
