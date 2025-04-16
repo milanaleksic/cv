@@ -46,14 +46,14 @@ I made an internal platform CLI tool (`dopy` / `dogo`) for many painful DevOps a
   + PostgreSQL RDS, Spring Boot 2, SQS, ECS, Terraform, Vue.js
 - *Pupin*: created machine learning cloud service for data classification (plural junctions problem)
   + Training: PostGIS, Python, Scikit-Learn, XGBoost, (Geo)Pandas, Jupyter
-  + Online+Batch prediction: Terraform / AWS ECS, Spring Boot 2, XGBoost, REST
+  + Online+Batch prediction: Terraform / AWS ECS, Spring Boot 2, XGBoost
 - *Dumbo*: migration of internal heavily used batch processing tool into the cloud
   + AWS Batch, ECS, PostgreSQL, S3, X-Ray; Spring Boot 2, Terraform, Python, Jenkins
 
 #### Hermes team
 
 - *Nozem*: always-up-to-date OpenStreetMap ingestion service into core TomTom data layer: Kafka, PostgreSQL, Python, Spring Boot, Jenkins
-- *Lego*: automated OpenStreetMap features ingestion: k8s on Azure Cloud, Python, Java, QGIS Python plugins
+- *Lego*: automated OpenStreetMap features ingestion: k8s, Python, Java, QGIS plugins
 
 </details>
 
@@ -70,8 +70,8 @@ Projects:
 - *Norsu* (Groovy, Cucumber, Gradle): Cross-systems end-to-end testing
 - Business Metrics dashboards (Akka and Dashing.io)
 - Migration of legacy Resin applications to Tomcat cluster
-  + Oracle DB, JSP, RMI, Ant, Tomcat, Apache2
-- *HAL9000* (Golang): Flowdock bot (CI/CD automation helper for 100+ developers)
+  + Oracle, JSP, RMI, Ant, Tomcat, Apache2
+- *HAL9000* (Go): Flowdock bot (CI/CD automation helper for 100+ developers)
 
 </details>
   
@@ -93,16 +93,16 @@ Projects:
 
 <details><summary><h2>Selected open source projects</h2></summary>
 
-- Advent of Code 2023: [https://github.com/milanaleksic/adventofcode2023](https://github.com/milanaleksic/adventofcode2023) (Zig)
-- Personal Web site: [https://github.com/milanaleksic/aleksic.dev](https://github.com/milanaleksic/aleksic.dev) (Hugo, Cloudflare Pages)
-- Advent of Code 2018: [https://github.com/milanaleksic/adventofcode2018](https://github.com/milanaleksic/adventofcode2018) (Go) 
+- Advent of Code 2023: [github.com/milanaleksic/adventofcode2023](https://github.com/milanaleksic/adventofcode2023) (Zig)
+- Personal Web site: [github.com/milanaleksic/aleksic.dev](https://github.com/milanaleksic/aleksic.dev) (Hugo, Cloudflare Pages)
+- Advent of Code 2018: [github.com/milanaleksic/adventofcode2018](https://github.com/milanaleksic/adventofcode2018) (Go) 
 
 </details>
 
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
-- Home Laboratory: a hybrid cluster (arm/amd, RPis/NUC Proxmox, home/Oracle Cloud) connected using Tailscale, and with a Synology NAS. Uses Ansible for foundational setup and HashiCorp Nomad for container scheduling (40+ services like Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and InfluxDB. Slowly migrated to k3s.
-- Thought Train (Go, PostgreSQL, NATS, htmx) my main side project: a feature-rich web page content extraction, note taking & book annotation distributed service; utlizes an ANTLR Search Query grammar, Pulumi AWS and with dedicated mobile applications (Android, iOS, using Flutter) and a Chrome Extension (Svelte)
+- Home Laboratory: a hybrid cluster (arm/amd, RPis/NUC Proxmox/Synology NAS, home/Oracle Cloud) connected using Tailscale. Uses Ansible for foundational setup and HashiCorp Nomad for container scheduling (40+ services like Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and InfluxDB. Slowly migrated to k3s.
+- Thought Train (Go, PostgreSQL, NATS, htmx) my main side project: a feature-rich web page content extraction, note taking & book annotation distributed service; utilizes an ANTLR Search Query grammar, Pulumi AWS and with dedicated mobile applications (Android, iOS, using Flutter) and a Chrome Extension (Svelte)
 - Batler (Go): personal Telegram bot I use for homelab automation tasks and as the main notification pipeline
 - Novinarnica (Go): content crawler and CBR packager of magazines
 
