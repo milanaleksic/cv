@@ -4,17 +4,16 @@ Last updated: 16/04/2025
 
 ## Personal
 
-Born on 21/12/1983, Smederevo (Serbia), living in Koekelberg (Belgium) since 2011. I have dual citizenship of Belgium and Serbia.
+Born on 21/12/1983, Smederevo (Serbia), living in Koekelberg (Belgium) with my wife and children since 2011. I hold dual citizenship of Belgium and Serbia.
 
 My website is [aleksic.dev](https://aleksic.dev), email is [milan@aleksic.dev](mailto:milan@aleksic.dev) and Bluesky account is: [aleksic.dev](https://bsky.app/profile/aleksic.dev).
-I am fairly active on [github.com/milanaleksic](https://github.com/milanaleksic).
-I also have a [LinkedIn account](https://www.linkedin.com/in/milanaleksic) if you'd like to connect with me.
+I am fairly active on [github.com/milanaleksic](https://github.com/milanaleksic). My LinkedIn account is [@milanaleksic](https://www.linkedin.com/in/milanaleksic) if you'd like to connect with me.
 
 <details><summary><h2>Education & spoken languages</h2></summary>
 
-Dipl. Ing. Computer Science & Engineering (2008) from *University of Belgrade* (Serbia), Faculty of Electrical Engineering (ETF). “NARIC – Vlaanderen” [recognized my diploma as M.Sc.](https://aleksic.dev/public/cv-nostrification).
+Dipl. Ing. Computer Science & Engineering (2008) from the *University of Belgrade* (Serbia), Faculty of Electrical Engineering (ETF). “NARIC – Vlaanderen” [recognized my diploma as M.Sc.](https://aleksic.dev/public/cv-nostrification).
 
-I can speak in the following languages: **Serbian** (mother tongue), **English** (fluent), **Dutch** ([C1 Effectiveness 1](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf)), **French** (A2, basic level)
+I speak the following languages: **Serbian** (mother tongue), **English** (fluent), **Dutch** ([C1 Effectiveness 1](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf)), **French** (A2, basic level)
 
 </details>
 
@@ -28,11 +27,13 @@ Java, Go, AWS, Python, PostgreSQL, MySQL
 
 <details><summary><h3>[2020-...] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
-My role was soda.io Cloud Backend founding engineer (since late spring 2025 also a member of the Foundation team). Programming languages I used were Java, Python and Go.
+Backend founding engineer of Soda Cloud (since late spring 2025 a member of the Foundation team). Programming languages I used were Java, Python and Go.
 
-I became the company backend guy & MySQL perf guy and helped the company grow 100x in customers and revenue over 5 years without high-profile incidents of the Soda Cloud product. I had a multi-hat impact on org through domain, infra and system design. Maintainer of Soda k8s agent, Vault Decrypter, warehouse source preparation, public API, OpenAPI generator, custom DI/DB framework and other complex features and mini-services.
+Became the company’s go-to backend engineer and MySQL performance expert. Helped scale the company 100x in both customers and revenue over 5 years, all without high-profile incidents in the Soda Cloud product. 
 
-I made an internal platform CLI tool (`dopy` / `dogo`) for many painful DevOps automation tasks - v1 Python, v2 Go (APIs from AWS/Okta/Datadog/k8s/soda cloud, SQLite, Perfetto).
+Had a multi-hat impact on the organization through domain, infrastructure, and system design. Maintainer of the Soda Kubernetes agent, Vault Decrypter, warehouse source preparation, public API, OpenAPI generator, custom DI/DB framework, and several other complex features and mini-services.
+
+Developed an internal platform CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud, using SQLite and Perfetto).
 
 </details>
 
@@ -77,7 +78,7 @@ Projects:
 
 <details><summary><h3>[2006-2013] Previous work experience</h3></summary>
 
-<p><footer>Reach out for a chat if you want more details about things in this list.</footer></p>
+<p><footer>Reach out for a chat if you'd like more details about anything listed here.</footer></p>
 
 **2014**: Freelance Consultant (remote) @ Gtech UK (*Brussels, Belgium*)
 
@@ -93,17 +94,17 @@ Projects:
 
 <details><summary><h2>Selected open source projects</h2></summary>
 
-- Advent of Code 2023: [github.com/milanaleksic/adventofcode2023](https://github.com/milanaleksic/adventofcode2023) (Zig)
-- Personal Web site: [github.com/milanaleksic/aleksic.dev](https://github.com/milanaleksic/aleksic.dev) (Hugo, Cloudflare Pages)
-- Advent of Code 2018: [github.com/milanaleksic/adventofcode2018](https://github.com/milanaleksic/adventofcode2018) (Go)
+- **Advent of Code 2023** (Zig): [github.com/milanaleksic/adventofcode2023](https://github.com/milanaleksic/adventofcode2023)
+- **Advent of Code 2018** (Go): [github.com/milanaleksic/adventofcode2018](https://github.com/milanaleksic/adventofcode2018)
+- **Personal Web site** (Hugo, Cloudflare Pages): [github.com/milanaleksic/aleksic.dev](https://github.com/milanaleksic/aleksic.dev)
 
 </details>
 
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
-- Home Laboratory: a hybrid cluster (arm/amd, RPis/NUC Proxmox/Synology NAS, home/Oracle Cloud) connected using Tailscale. Uses Ansible for foundational setup and HashiCorp Nomad for container scheduling (40+ services like Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and InfluxDB. Slowly migrated to k3s.
-- Thought Train (Go, PostgreSQL, NATS, htmx) my main side project: a feature-rich web page content extraction, note taking & book annotation distributed service; utilizes an ANTLR Search Query grammar, Pulumi AWS and with dedicated mobile applications (Android, iOS, using Flutter) and a Chrome Extension (Svelte)
-- Batler (Go): personal Telegram bot I use for homelab automation tasks and as the main notification pipeline
-- Novinarnica (Go): content crawler and CBR packager of magazines
+- **Home Laboratory**: Hybrid cluster (ARM/AMD, RPis/NUC, Proxmox/Synology NAS, home/Oracle Cloud) connected via Tailscale. Uses Ansible for setup and HashiCorp Nomad for container scheduling (40+ services: Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and InfluxDB. Gradually migrating to k3s.
+- **Thought Train** (Go, PostgreSQL, NATS, htmx) My main side project – a distributed service for feature-rich web page content extraction, note-taking, and book annotation. Uses an ANTLR search query grammar, Pulumi AWS, mobile apps (Flutter for Android/iOS), and a Chrome Extension (Svelte).
+- **Batler** (Go): Personal Telegram bot used for homelab automation and as a main notification pipeline.
+- **Novinarnica** (Go): Content crawler and CBR packager for magazines.
 
 </details>
