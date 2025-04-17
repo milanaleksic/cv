@@ -41,14 +41,14 @@ I made an internal platform CLI tool (`dopy` / `dogo`) for many painful DevOps a
 #### MPU Core Coverage Creation & Extension Team
 
 - *MLF library*: authored code-generated Java wrapper around GDAL OpenFileGDB (later extended to PostGIS and GeoPackage).
-  + Custom ANTLR grammar for extended validation and Python/Markdown doc generator
+  - Custom ANTLR grammar for extended validation and Python/Markdown doc generator
 - *Sinatra*: Led migration of a complex process into AWS for GIS source data digestion
-  + PostgreSQL RDS, Spring Boot 2, SQS, ECS, Terraform, Vue.js
+  - PostgreSQL RDS, Spring Boot 2, SQS, ECS, Terraform, Vue.js
 - *Pupin*: created machine learning cloud service for data classification (plural junctions problem)
-  + Training: PostGIS, Python, Scikit-Learn, XGBoost, (Geo)Pandas, Jupyter
-  + Online+Batch prediction: Terraform / AWS ECS, Spring Boot 2, XGBoost
+  - Training: PostGIS, Python, Scikit-Learn, XGBoost, (Geo)Pandas, Jupyter
+  - Online+Batch prediction: Terraform / AWS ECS, Spring Boot 2, XGBoost
 - *Dumbo*: migration of internal heavily used batch processing tool into the cloud
-  + AWS Batch, ECS, PostgreSQL, S3, X-Ray; Spring Boot 2, Terraform, Python, Jenkins
+  - AWS Batch, ECS, PostgreSQL, S3, X-Ray; Spring Boot 2, Terraform, Python, Jenkins
 
 #### Hermes team
 
@@ -62,32 +62,32 @@ I made an internal platform CLI tool (`dopy` / `dogo`) for many painful DevOps a
 Projects:
 
 - *Basware Network Portal*: Full-stack development role on online and internal services
-  + Tech stack: Play2, Scala, Java8, MongoDB, Spring, Chef, Go
-  + Rewritten core validation business rules implementation (Java)
+  - Tech stack: Play2, Scala, Java8, MongoDB, Spring, Chef, Go
+  - Rewritten core validation business rules implementation (Java)
 - *Basware e-Archiving*: DevOps lead-in-charge and one of lead developers
-  + Tech stack: CloudFormation, Jenkins, Bash, AWS CLI
-  + Cloud stack: Java Lambda functions, API GW, S3, DynamoDB, SQS, Splunk
+  - Tech stack: CloudFormation, Jenkins, Bash, AWS CLI
+  - Cloud stack: Java Lambda functions, API GW, S3, DynamoDB, SQS, Splunk
 - *Norsu* (Groovy, Cucumber, Gradle): Cross-systems end-to-end testing
 - Business Metrics dashboards (Akka and Dashing.io)
 - Migration of legacy Resin applications to Tomcat cluster
-  + Oracle, JSP, RMI, Ant, Tomcat, Apache2
+  - Oracle, JSP, RMI, Ant, Tomcat, Apache2
 - *HAL9000* (Go): Flowdock bot (CI/CD automation helper for 100+ developers)
 
 </details>
-  
+
 <details><summary><h3>[2006-2013] Previous work experience</h3></summary>
 
 <p><footer>Reach out for a chat if you want more details about things in this list.</footer></p>
-  
-**2014**: Freelance Consultant (remote) @ Gtech UK (_Brussels, Belgium_)
 
-**2011-2013**: Software consultant @ Cronos (Belgium) (_Brussels, Belgium_)
-  
-**2009-2011**: Software Engineer II @ Gtech G2 Sports Betting (_Belgrade, Serbia_)
+**2014**: Freelance Consultant (remote) @ Gtech UK (*Brussels, Belgium*)
 
-**2007-2009**: Java Developer @ Arius (_Belgrade, Serbia_)
+**2011-2013**: Software consultant @ Cronos (Belgium) (*Brussels, Belgium*)
 
-**2006**: Intern software developer @ ESAProjekt (_Katowice, Poland_)
+**2009-2011**: Software Engineer II @ Gtech G2 Sports Betting (*Belgrade, Serbia*)
+
+**2007-2009**: Java Developer @ Arius (*Belgrade, Serbia*)
+
+**2006**: Intern software developer @ ESAProjekt (*Katowice, Poland*)
 
 </details>
 
@@ -95,7 +95,7 @@ Projects:
 
 - Advent of Code 2023: [github.com/milanaleksic/adventofcode2023](https://github.com/milanaleksic/adventofcode2023) (Zig)
 - Personal Web site: [github.com/milanaleksic/aleksic.dev](https://github.com/milanaleksic/aleksic.dev) (Hugo, Cloudflare Pages)
-- Advent of Code 2018: [github.com/milanaleksic/adventofcode2018](https://github.com/milanaleksic/adventofcode2018) (Go) 
+- Advent of Code 2018: [github.com/milanaleksic/adventofcode2018](https://github.com/milanaleksic/adventofcode2018) (Go)
 
 </details>
 
@@ -107,4 +107,3 @@ Projects:
 - Novinarnica (Go): content crawler and CBR packager of magazines
 
 </details>
-
