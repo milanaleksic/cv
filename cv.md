@@ -27,9 +27,9 @@ Java, Go, AWS, Python, PostgreSQL, MySQL
 
 <details><summary><h3>[2020-...] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
-Backend founding engineer of Soda Cloud (since late spring 2025 a member of the Foundation team). Programming languages I used were Java, Python and Go.
+Backend founding engineer of Soda Cloud (since 2025 a member of the Foundation team). Programming languages I used were Java, Python and Go.
 
-Became the company’s go-to backend engineer and MySQL performance expert. Helped scale the company 100x in both customers and revenue over 5 years, all without high-profile incidents in the Soda Cloud product. 
+Became the company’s go-to backend engineer and MySQL performance guy. Helped scale the company 100x in both customers and revenue over 5 years, all without high-profile incidents in the Soda Cloud product. 
 
 Had a multi-hat impact on the organization through domain, infrastructure, and system design. Maintainer of the Soda Kubernetes agent, Vault Decrypter, warehouse source preparation, public API, OpenAPI generator, custom DI/DB framework, and several other complex features and mini-services.
 
@@ -102,7 +102,7 @@ Projects:
 
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
-- **Home Laboratory**: Hybrid cluster (ARM/AMD, RPis/NUC, Proxmox/Synology NAS, home/Oracle Cloud) connected via Tailscale. Uses Ansible for setup and HashiCorp Nomad for container scheduling (40+ services: Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and InfluxDB. Gradually migrating to k3s.
+- **Home Laboratory**: Hybrid cluster (ARM/AMD, RPis/NUC, Proxmox/Synology NAS, home/Oracle Cloud) connected via Tailscale. Uses Ansible for setup and Kubernetes (k3s) for container scheduling (40+ services: Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and Prometheus. Previously a Nomad cluster, migrated away in 2025.
 - **Thought Train** (Go, PostgreSQL, NATS, htmx) My main side project – a distributed service for feature-rich web page content extraction, note-taking, and book annotation. Uses an ANTLR search query grammar, Pulumi AWS, mobile apps (Flutter for Android/iOS), and a Chrome Extension (Svelte).
 - **Batler** (Go): Personal Telegram bot used for homelab automation and as a main notification pipeline.
 - **Novinarnica** (Go): Content crawler and CBR packager for magazines.
