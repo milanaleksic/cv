@@ -11,7 +11,7 @@ I am fairly active on [github.com/milanaleksic](https://github.com/milanaleksic)
 
 <details><summary><h2>Education & spoken languages</h2></summary>
 
-Dipl. Ing. Computer Science & Engineering (2008) from the *University of Belgrade* (Serbia), Faculty of Electrical Engineering (ETF). “NARIC – Vlaanderen” [recognized my diploma as M.Sc.](https://aleksic.dev/public/cv-nostrification).
+Dipl. Ing. Computer Science & Engineering (2008) from the *University of Belgrade* (Serbia), Faculty of Electrical Engineering (ETF). “NARIC – Vlaanderen” [recognized my diploma as M.Sc.](https://aleksic.dev/public/cv-nostrification.pdf).
 
 I speak the following languages: **Serbian** (mother tongue), **English** (fluent), **Dutch** ([C1 Effectiveness 1](https://aleksic.dev/public/cefr_en_overzicht_nt2_aanbod.pdf)), **French** (A2, basic level)
 
