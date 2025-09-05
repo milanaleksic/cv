@@ -29,11 +29,11 @@ Java, Go, AWS, Python, PostgreSQL, MySQL
 
 Backend founding engineer of Soda, working on Soda Cloud SaaS. Programming languages I used were Java, Python and Go.
 
-Became the company’s go-to backend engineer and MySQL performance guy. Helped scale the company 100x in both customers and revenue over 5 years, all without high-profile incidents in the Soda Cloud product. 
+Became the company’s go-to backend engineer and MySQL performance guy. Helped scale the company 100x in both customers and revenue over 5 years, all without high-profile incidents of the Soda Cloud product.
 
-Had a multi-hat impact on the organization through domain, infrastructure, and system design. Maintainer of the Soda Kubernetes agent, Vault Decrypter, warehouse source preparation, public API, OpenAPI generator, custom DI/DB framework, and several other complex features and mini-services.
+Had a multi-hat impact on the organization through domain, infrastructure, and system design. Some of the most prominent features I worked on were Vault Decrypter Service, Guardian Service, Soda Kubernetes Agent, various in-house frameworks for authorization, feature gates, notification rules, database, dependency injection, backend configuration management, OpenAPI code generator, etc.
 
-Developed an internal platform CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud, using SQLite and Perfetto).
+I also envisioned and developed an internal admin & devops CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud Admin API, Github).
 
 </details>
 
