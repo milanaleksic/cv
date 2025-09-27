@@ -104,7 +104,7 @@ Projects:
 
 - **Home Laboratory**: Hybrid cluster (ARM/AMD, RPis/NUC, Proxmox/Synology NAS, home/Oracle Cloud) connected via Tailscale. Uses Ansible for setup and Kubernetes (k3s) for container scheduling (40+ services: Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and Prometheus. Previously a Nomad cluster, migrated away in 2025.
 - **Thought Train** (Go, PostgreSQL, NATS, htmx) My main side project – a distributed service for feature-rich web page content extraction, note-taking, and book annotation. Uses an ANTLR search query grammar, Pulumi AWS, mobile apps (Flutter for Android/iOS), and a Chrome Extension (Svelte).
-- **Batler** (Go): Personal Telegram bot used for homelab automation and as a main notification pipeline.
 - **Novinarnica** (Go): Content crawler and CBR packager for magazines.
+- **kube-home-dns** (Go): Personal DNS server, Cloudflare DNS record syncer and caddy configuration provider; works as a k8s controller
 
 </details>
