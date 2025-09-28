@@ -102,9 +102,9 @@ Projects:
 
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
-- **Home Laboratory**: Hybrid cluster (ARM/AMD, RPis/NUC, Proxmox/Synology NAS, home/Oracle Cloud) connected via Tailscale. Uses Ansible for setup and Kubernetes (k3s) for container scheduling (40+ services: Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and Prometheus. Previously a Nomad cluster, migrated away in 2025.
-- **Thought Train** (Go, PostgreSQL, NATS, htmx) My main side project – a distributed service for feature-rich web page content extraction, note-taking, and book annotation. Uses an ANTLR search query grammar, Pulumi AWS, mobile apps (Flutter for Android/iOS), and a Chrome Extension (Svelte).
+- **Home Laboratory**: Hybrid cluster connected via Tailscale  ARM/AMD, RPis/NUC, Proxmox/Synology NAS, home/Oracle Cloud. Uses Ansible for setup and Kubernetes (k3s) for container scheduling (40+ services: Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and Prometheus. Migrated away from Nomad in 2025.
+- **Thought Train** (Go, PostgreSQL, NATS, htmx) My main side project – a distributed service for feature-rich web page content extraction, note-taking, and book annotation. Uses an ANTLR search query grammar, R2 as object storage, with mobile apps (Flutter for Android/iOS), and a Chrome Extension (Svelte).
 - **Novinarnica** (Go): Content crawler and CBR packager for magazines.
-- **kube-home-dns** (Go): Personal DNS server, Cloudflare DNS record syncer and caddy configuration provider; works as a k8s controller
+- **kube-home-dns** (Go): k8s controller thay is at the same time: home DNS server, NextDNS forwarder, Cloudflare DNS record syncer and Caddy config provider for k8s-free DMZ ingress
 
 </details>
