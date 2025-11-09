@@ -29,9 +29,9 @@ Java, Go, AWS, Python, PostgreSQL, MySQL
 
 Backend founding engineer of Soda, working on Soda Cloud SaaS. Programming languages I used were Java, Python and Go.
 
-Became the company’s go-to backend engineer and MySQL performance guy. Helped scale the company 100x in both customers and revenue over 5 years, all without high-profile incidents of the Soda Cloud product.
+I became the company’s go-to backend engineer and MySQL performance guy. Helped scale the company 100x in both customers and revenue over 5 years, all without high-profile incidents of the Soda Cloud product.
 
-Had a multi-hat impact on the organization through domain, infrastructure, and system design. Some of the most prominent features I worked on were Vault Decrypter Service, Guardian Service, Soda Kubernetes Agent, various in-house frameworks for authorization, feature gates, notification rules, database, dependency injection, backend configuration management, OpenAPI code generator, etc.
+I had a multi-hat impact on the organization through domain, infrastructure, and system design as well as providing engineering support and coaching. Some of the most prominent backend features I worked on were internal frameworks for authorization, feature gates, notification rules, database, dependency injection, configuration management, OpenAPI code generator, etc. I also participated in the development of other services like Vault Decrypter, Guardian, Soda Kubernetes Agent, etc.
 
 I also envisioned and developed an internal admin & devops CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud Admin API, Github).
 
@@ -102,7 +102,7 @@ Projects:
 
 <details><summary><h2>Selected closed source personal projects</h2></summary>
 
-- **Home Laboratory**: Hybrid cluster connected via Tailscale  ARM/AMD, RPis/NUC, Proxmox/Synology NAS, home/Oracle Cloud. Uses Ansible for setup and Kubernetes (k3s) for container scheduling (40+ services: Gitea, Minecraft, yarr, etc.). Deep monitoring via Grafana Stack and Prometheus. Migrated away from Nomad in 2025.
+- **Home Laboratory**: Hybrid cluster: ARM/AMD, Proxmox LXCs/metal, home/Oracle Cloud. Uses Ansible for setup and Kubernetes (k3s) for container scheduling of 40+ services. Deep monitoring via Grafana Stack and Prometheus. Migrated away from Nomad in 2025.
 - **Thought Train** (Go, PostgreSQL, NATS, htmx) My main side project – a distributed service for feature-rich web page content extraction, note-taking, and book annotation. Uses an ANTLR search query grammar, R2 as object storage, with mobile apps (Flutter for Android/iOS), and a Chrome Extension (Svelte).
 - **Novinarnica** (Go): Content crawler and CBR packager for magazines.
 - **kube-home-dns** (Go): k8s controller that is at the same time a home DNS server, a NextDNS forwarder, a Cloudflare DNS record syncer and a Caddy config provider for my k8s-free DMZ ingress
