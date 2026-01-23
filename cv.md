@@ -29,9 +29,9 @@ Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
 
 Backend founding engineer of Soda, working on Soda Cloud SaaS. Programming languages I used were Java, Python and Go.
 
-I became the company’s go-to backend engineer and MySQL performance guy. Helped scale the company 100x in both customers and revenue over 5 years, all without high-profile incidents of the Soda Cloud product.
+I became the company’s go-to backend engineer and MySQL performance guy. Helped scale the company 100x in both customers and revenue during my tenure in Soda.
 
-I had a multi-hat impact on the organization through domain, infrastructure, and system design as well as providing engineering support and coaching. Some of the most prominent backend features I worked on were internal frameworks for authorization, feature gates, notification rules, database, dependency injection, configuration management, OpenAPI code generator, etc. I also participated in the development of many of Soda critical architecture: Backend, Decrypter, Guardian, Soda Kubernetes Agent, first steps in ClickHouse etc.
+I had a multi-hat impact on the organization through domain, infrastructure, and system design as well as providing engineering support and coaching. Some of the most prominent backend features I worked on were internal frameworks for authorization, feature gates, notification rules, database and search query framework, dependency injection, configuration management, OpenAPI code generator, etc. I also participated in the development of many of Soda critical architecture components beside backend: Decrypter, Guardian, Soda Kubernetes Agent, introduction of ClickHouse etc.
 
 I also envisioned and developed an internal devops CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud Admin API, Github).
 
