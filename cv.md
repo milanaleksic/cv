@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 28/09/2025
+Last updated: 23/01/2026
 
 ## Personal
 
@@ -19,7 +19,7 @@ I speak the following languages: **Serbian** (mother tongue), **English** (fluen
 
 <details><summary><h2>Keywords</h2></summary>
 
-Java, Go, AWS, Python, PostgreSQL, MySQL
+Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
 
 </details>
 
@@ -31,9 +31,9 @@ Backend founding engineer of Soda, working on Soda Cloud SaaS. Programming langu
 
 I became the company’s go-to backend engineer and MySQL performance guy. Helped scale the company 100x in both customers and revenue over 5 years, all without high-profile incidents of the Soda Cloud product.
 
-I had a multi-hat impact on the organization through domain, infrastructure, and system design as well as providing engineering support and coaching. Some of the most prominent backend features I worked on were internal frameworks for authorization, feature gates, notification rules, database, dependency injection, configuration management, OpenAPI code generator, etc. I also participated in the development of other services like Vault Decrypter, Guardian, Soda Kubernetes Agent, etc.
+I had a multi-hat impact on the organization through domain, infrastructure, and system design as well as providing engineering support and coaching. Some of the most prominent backend features I worked on were internal frameworks for authorization, feature gates, notification rules, database, dependency injection, configuration management, OpenAPI code generator, etc. I also participated in the development of many of Soda critical architecture: Backend, Decrypter, Guardian, Soda Kubernetes Agent, first steps in ClickHouse etc.
 
-I also envisioned and developed an internal admin & devops CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud Admin API, Github).
+I also envisioned and developed an internal devops CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud Admin API, Github).
 
 </details>
 
