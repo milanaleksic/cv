@@ -35,6 +35,7 @@ I had a multi-hat impact on the organization through domain, infrastructure, and
 
 I also envisioned and developed an internal devops CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud Admin API, Github).
 
+After the Claude Code had been introduced, I worked on AI-driven tooling and agent-friendliness of backend.
 </details>
 
 <details><summary><h3>[2017-2020] Expert Software Engineer @ TomTom (Ghent, Belgium)</h3></summary>
