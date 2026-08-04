@@ -29,7 +29,7 @@ Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
 
 Promotion to Staff Engineer came after consistent long-term effort and positive impact on the product&engineering in the company. Focus was meant to be put even further on the architecture evolution, AI practices and e2e tooling which make both short and long term engineering targets possible.
 
-As the backend member of the platform team I developed complex product foundational features. I also had cross-team influence via architecture alignment, creation of specialized internal tooling like spritz (local e2e development platform), chain (PR & CI management).
+As the backend member of the platform team I developed complex product foundational features. I also had cross-team influence via AI & architecture alignment and creation of specialized internal tooling like spritz (local e2e development platform), chain (PR & CI management).
 
 <details><summary><h3>[2020-2026] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
@@ -40,8 +40,6 @@ I became the company’s go-to backend engineer and MySQL performance guy. Helpe
 I had a multi-hat impact on the organization through domain, infrastructure, and system design as well as providing engineering support and coaching. Some of the most prominent backend features I worked on were internal frameworks for authorization, feature gates, notification rules, database and search query framework, dependency injection, configuration management, OpenAPI code generator, etc. I also participated in the development of many of Soda critical architecture components beside backend: Decrypter, Guardian, Soda Kubernetes Agent, introduction of ClickHouse etc.
 
 I also envisioned and developed an internal devops CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud Admin API, Github).
-
-After Claude Code had been introduced, I worked on AI-driven tooling and agent-friendliness of backend.
 </details>
 
 <details><summary><h3>[2017-2020] Expert Software Engineer @ TomTom (Ghent, Belgium)</h3></summary>
