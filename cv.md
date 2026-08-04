@@ -25,7 +25,13 @@ Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
 
 <details><summary><h2>Work experience</h2></summary>
 
-<details><summary><h3>[2020-...] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
+<details><summary><h3>[2026-...] Staff Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
+
+Promotion to Staff Engineer came after consistent long-term effort and positive impact on the product&engineering in the company. Focus was meant to be put even further on the architecture evolution, AI practices and e2e tooling which make both short and long term engineering targets possible.
+
+As the backend member of the platform team I developed complex product foundational features. I also had cross-team influence via architecture alignment, creation of specialized internal tooling like spritz (local e2e development platform), chain (PR & CI management).
+
+<details><summary><h3>[2020-2026] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
 Backend founding engineer of Soda, working on Soda Cloud SaaS. Programming languages I used were Java, Python and Go.
 
