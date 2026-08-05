@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 23/01/2026
+Last updated: 05/08/2026
 
 ## Personal
 
