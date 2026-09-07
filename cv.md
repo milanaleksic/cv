@@ -29,7 +29,7 @@ Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
 
 Promotion to Staff Engineer came after consistent long-term effort and positive impact on the product&engineering in the company. Focus was meant to be put even further on the architecture evolution, AI practices and e2e tooling which make both short and long term engineering targets possible.
 
-As the backend member of the platform team I developed complex product foundational features. I also had cross-team influence via AI & architecture alignment and creation of specialized internal tooling like spritz (local e2e development platform), chain (PR & CI management).
+As the backend member of the platform team I developed complex product foundational features. I also had cross-team influence via AI & architecture alignment and creation of specialized internal tooling like spritz (local e2e development platform for all things Soda), chain (replaced my IDE with PR/CI/CD management, background agent control plane handling incoming tickets, review feedback - just leaving the final human touch out of the loop).
 
 <details><summary><h3>[2020-2026] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
