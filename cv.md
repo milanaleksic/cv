@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 05/08/2026
+Last updated: 12/09/2026
 
 ## Personal
 
@@ -27,15 +27,15 @@ Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
 
 <details><summary><h3>[2026-...] Staff Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
-Focus for my new role in Soda was meant to be put even further on the architecture evolution, AI practices and e2e tooling which make both short and long term engineering targets possible, even though I succceeded, as the backend member of the platform team, to develop complex and foundational product features. I also made P&E org impact via creation of specialized internal tooling like _spritz_ (local e2e development platform for all things Soda) and _chain_ (agentic development system with PR/CI/CD management, background agent control plane handling incoming tickets, review feedback).
+As the company ARR increased, my new role in Soda was meant to focus even further on the evolution of the architecture and modern AI practices to enable both short and long term engineering targets possible (although I was at the same time expected to deliver foundational product features that crossed team boundaries in P&E, e.g. moving away from custom frameworks, ). 
+
+I also created specialized internal tooling like `spritz` (local e2e development platform) and `chain` (agentic development system with PR/CI/CD management, background agent control plane handling incoming tickets, review feedback).
 
 <details><summary><h3>[2020-2026] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
 Backend founding engineer of Soda, working on Soda Cloud SaaS. Programming languages I used were Java, Python and Go. I became the company’s go-to backend engineer and MySQL performance guy. Helped scale the company 100x in both customers and revenue during my tenure in Soda.
 
-I had a multi-hat impact on the organization through domain, infrastructure, and system design as well as providing engineering support and coaching. Some of the most prominent backend features I worked on were internal frameworks for authorization, feature gates, notification rules, database and search query framework, dependency injection, configuration management, OpenAPI code generator, etc. I also participated in the development of many of Soda critical architecture components beside backend: Decrypter, Guardian, Soda Kubernetes Agent, introduction of ClickHouse etc.
-
-I also envisioned and developed an internal devops CLI tool (`dopy` / `dogo`) for automating many painful DevOps tasks. v1 was in Python, v2 in Go (integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud Admin API, Github).
+Some of the most prominent backend features I worked on were internal frameworks for authorization, feature gates, notification rules, database and search query framework, dependency injection, configuration management, OpenAPI code generator, etc. I also participated in the development of many of Soda critical architecture components beside backend: Decrypter, Guardian, Soda Kubernetes Agent, introduction of ClickHouse etc. I also envisioned and developed an internal devops CLI tool in Go (`dogo`) integrating APIs from AWS, Okta, Datadog, Kubernetes, Soda Cloud Admin API, Github.
 </details>
 
 <details><summary><h3>[2017-2020] Expert Software Engineer @ TomTom (Ghent, Belgium)</h3></summary>
