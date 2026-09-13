@@ -40,20 +40,16 @@ Some of the most prominent backend features I worked on were internal frameworks
 
 <details><summary><h3>[2017-2020] Expert Software Engineer @ TomTom (Ghent, Belgium)</h3></summary>
 
-#### MPU Core Coverage Creation & Extension Team
+I worked in role of Expert Java Developer in 2 teams: MPU Core Coverage Creation & Extension Team and later in Hermes team which was creating the first steps in integrating OpenStreetMap in TomTom.
 
 - *MLF library*: authored code-generated Java wrapper around GDAL OpenFileGDB (later extended to PostGIS and GeoPackage).
   - Custom ANTLR grammar for extended validation and Python/Markdown doc generator
 - *Sinatra*: Led migration of a complex process into AWS for GIS source data digestion
   - PostgreSQL RDS, Spring Boot 2, SQS, ECS, Terraform, Vue.js
 - *Pupin*: created machine learning cloud service for data classification (plural junctions problem)
-  - Training: PostGIS, Python, Scikit-Learn, XGBoost, (Geo)Pandas, Jupyter
-  - Online+Batch prediction: Terraform / AWS ECS, Spring Boot 2, XGBoost
+  - Training: PostGIS, Python, Scikit-Learn, XGBoost, (Geo)Pandas, Jupyter and inference on AWS ECS and XGBoost
 - *Dumbo*: migration of internal heavily used batch processing tool into the cloud
   - AWS Batch, ECS, PostgreSQL, S3, X-Ray; Spring Boot 2, Terraform, Python, Jenkins
-
-#### Hermes team
-
 - *Nozem*: always-up-to-date OpenStreetMap ingestion service into core TomTom data layer: Kafka, PostgreSQL, Python, Spring Boot, Jenkins
 - *Lego*: automated OpenStreetMap features ingestion: k8s, Python, Java, QGIS plugins
 
@@ -66,13 +62,10 @@ Projects:
 - *Basware Network Portal*: Full-stack development role on online and internal services
   - Tech stack: Play2, Scala, Java8, MongoDB, Spring, Chef, Go
   - Rewritten core validation business rules implementation (Java)
-- *Basware e-Archiving*: DevOps lead-in-charge and one of lead developers
-  - Tech stack: CloudFormation, Jenkins, Bash, AWS CLI
-  - Cloud stack: Java Lambda functions, API GW, S3, DynamoDB, SQS, Splunk
+- *Basware e-Archiving*: greenfield AWS serverless project based on Java Lambda functions, API GW, DynamoDB, SQS and CloudFormation
 - *Norsu* (Groovy, Cucumber, Gradle): Cross-systems end-to-end testing
 - Business Metrics dashboards (Akka and Dashing.io)
-- Migration of legacy Resin applications to Tomcat cluster
-  - Oracle, JSP, RMI, Ant, Tomcat, Apache2
+- Migration of legacy Resin applications to a Tomcat cluster
 - *HAL9000* (Go): Flowdock bot (CI/CD automation helper for 100+ developers)
 
 </details>
