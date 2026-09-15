@@ -27,7 +27,7 @@ Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
 
 <details><summary><h3>[2026-...] Staff Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
-As the company ARR increased, my new role in Soda was meant to focus even further on the evolution of the architecture and modern AI practices to enable both short and long term engineering targets possible (although I was at the same time expected to deliver foundational product features that crossed team boundaries in P&E, e.g. moving away from custom frameworks, ). 
+Led architectural changes and AI adoption to support rapid ARR growth and drive Product & Engineering deliverables (e.g., migrating from custom framework, introduction of new services, etc). Increased internal developer velocity by creating spritz (a local E2E development platform) and chain (an agentic development system with autonomous PR/CI/CD management and background ticket/review control planes).
 
 I also created specialized internal tooling like `spritz` (local e2e development platform) and `chain` (agentic development system with PR/CI/CD management, background agent control plane handling incoming tickets, review feedback).
 
