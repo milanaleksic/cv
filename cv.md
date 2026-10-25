@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 12/09/2026
+Last updated: 25/10/2026
 
 ## Personal
 
@@ -27,9 +27,9 @@ Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
 
 <details><summary><h3>[2026-...] Staff Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
-Led architectural changes and AI adoption to support rapid ARR growth and drive Product & Engineering deliverables (e.g., migrating from custom framework, introduction of new services, etc). Increased internal developer velocity by creating spritz (a local E2E development platform) and chain (an agentic development system with autonomous PR/CI/CD management and background ticket/review control planes).
+Led architectural changes and AI adoption to support rapid ARR growth and drive Product & Engineering deliverables through my role in the platform team. Some examples of hands-on work done: cross-team framework standardization, introduction of new services, guidance for effective usage of LLMs, etc. 
 
-I also created specialized internal tooling like `spritz` (local e2e development platform) and `chain` (agentic development system with PR/CI/CD management, background agent control plane handling incoming tickets, review feedback).
+Increased internal developer velocity by creating `spritz` (a local E2E development platform) and `chain` (an agentic development system with autonomous PR/CI/CD management and background ticket/review control planes, basically “factory with lights on”).
 
 <details><summary><h3>[2020-2026] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
