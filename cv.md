@@ -1,6 +1,6 @@
 # Milan Aleksić
 
-Last updated: 25/10/2026
+Last updated: 07/11/2026
 
 ## Personal
 
@@ -19,7 +19,7 @@ I speak the following languages: **Serbian** (mother tongue), **English** (fluen
 
 <details><summary><h2>Keywords</h2></summary>
 
-Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
+Java, Spring Boot, Go, Python, AWS, Kubernetes, PostgreSQL, MySQL, ClickHouse, OAuth/SAML/SCIM, agentic AI development (Claude Code, MCP)
 
 </details>
 
@@ -27,9 +27,16 @@ Java, Go, AWS, Python, PostgreSQL, MySQL, ClickHouse
 
 <details><summary><h3>[2026-...] Staff Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
-Led architectural changes and AI adoption to support rapid ARR growth and drive Product & Engineering deliverables through my role in the platform team. Some examples of hands-on work done: cross-team framework standardization, introduction of new services, guidance for effective usage of LLMs, etc. 
+Member of the platform team, where I lead architectural changes and AI adoption across Product & Engineering to support rapid ARR growth, while staying hands-on. Highlights:
 
-Increased internal developer velocity by creating `spritz` (a local E2E development platform) and `chain` (an agentic development system with autonomous PR/CI/CD management and background ticket/review control planes, basically “factory with lights on”).
+* **Platform core**: migrated the backend from our in-house DI framework to Spring Boot 4, with team-wide conventions enforced by ArchUnit
+* **Usage-based licensing**: built the SPU consumption pipeline end to end (ingest, reconciliation, usage ledger, public API) and co-built the internal consumption dashboard
+* **Enterprise identity**: SCIM 2.0 provisioning, SAML improvements and service account roles
+* **AI & MCP**: end-to-end OAuth solution with dynamic client registration (DCR) for the remote MCP server on our platform
+* **Performance & CI/CD**: ClickHouse read paths, MySQL tuning, feature flips moved from AWS SSM to MySQL, and a faster, sharded backend test pipeline
+
+Increased developer velocity by creating `spritz` (a local E2E development platform) and `chain` (an agentic development system with autonomous PR/CI/CD management and background ticket/review control planes, basically a “factory with the lights on”).
+</details>
 
 <details><summary><h3>[2020-2026] Senior Software Engineer @ Soda (remote; HQ in Brussels, Belgium)</h3></summary>
 
